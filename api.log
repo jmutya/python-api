@@ -1,0 +1,2282 @@
+2023-11-03 18:40:42,146 - __main__ - INFO - Connected to the database
+2023-11-03 18:40:42,160 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-03 18:40:42,160 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-03 19:54:28,597 - __main__ - INFO - Database connection closed
+2023-11-03 19:54:31,047 - __main__ - INFO - Connected to the database
+2023-11-03 19:54:31,063 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-03 19:54:31,063 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-03 19:54:44,266 - werkzeug - INFO - 127.0.0.1 - - [03/Nov/2023 19:54:44] "GET / HTTP/1.1" 200 -
+2023-11-03 21:47:35,995 - __main__ - INFO - Database connection closed
+2023-11-03 21:47:40,035 - __main__ - INFO - Connected to the database
+2023-11-03 21:47:40,049 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-03 21:47:40,049 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-03 21:47:51,279 - __main__ - INFO - Database connection closed
+2023-11-03 21:47:55,078 - __main__ - INFO - Connected to the database
+2023-11-03 21:47:55,092 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-03 21:47:55,092 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-03 21:49:32,681 - __main__ - INFO - Database connection closed
+2023-11-03 21:49:35,491 - __main__ - INFO - Connected to the database
+2023-11-03 21:49:35,504 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-03 21:49:35,504 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-03 21:49:55,895 - __main__ - INFO - Database connection closed
+2023-11-03 21:50:18,075 - __main__ - INFO - Connected to the database
+2023-11-03 21:50:18,093 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-03 21:50:18,093 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-03 21:51:21,404 - __main__ - INFO - Received registration request
+2023-11-03 21:51:21,421 - __main__ - INFO - User registered successfully
+2023-11-03 21:51:21,422 - werkzeug - INFO - 192.168.254.115 - - [03/Nov/2023 21:51:21] "POST /register HTTP/1.1" 200 -
+2023-11-03 21:53:24,429 - __main__ - INFO - Received registration request
+2023-11-03 21:53:24,435 - __main__ - INFO - User registered successfully
+2023-11-03 21:53:24,436 - werkzeug - INFO - 192.168.254.115 - - [03/Nov/2023 21:53:24] "POST /register HTTP/1.1" 200 -
+2023-11-03 21:58:22,320 - __main__ - INFO - Received registration request
+2023-11-03 21:58:22,343 - __main__ - INFO - User registered successfully
+2023-11-03 21:58:22,343 - werkzeug - INFO - 192.168.254.115 - - [03/Nov/2023 21:58:22] "POST /register HTTP/1.1" 200 -
+2023-11-03 22:05:02,751 - __main__ - INFO - Received registration request
+2023-11-03 22:05:02,765 - __main__ - INFO - User registered successfully
+2023-11-03 22:05:02,765 - werkzeug - INFO - 192.168.254.115 - - [03/Nov/2023 22:05:02] "POST /register HTTP/1.1" 200 -
+2023-11-03 22:07:40,387 - __main__ - INFO - Database connection closed
+2023-11-03 22:07:43,335 - __main__ - INFO - Connected to the database
+2023-11-03 22:07:53,659 - __main__ - INFO - Connected to the database
+2023-11-03 22:07:58,574 - __main__ - INFO - Connected to the database
+2023-11-03 22:08:32,621 - __main__ - INFO - Connected to the database
+2023-11-03 22:09:04,697 - __main__ - INFO - Connected to the database
+2023-11-03 22:09:18,692 - __main__ - INFO - Connected to the database
+2023-11-03 22:09:18,722 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-03 22:09:18,722 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-03 22:10:46,077 - __main__ - INFO - Database connection closed
+2023-11-03 22:11:04,445 - __main__ - INFO - Connected to the database
+2023-11-03 22:11:04,458 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-03 22:11:04,458 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-03 22:11:28,481 - __main__ - INFO - Received registration request
+2023-11-03 22:11:28,497 - __main__ - INFO - User already exists
+2023-11-03 22:11:28,498 - werkzeug - INFO - 192.168.254.115 - - [03/Nov/2023 22:11:28] "[31m[1mPOST /register HTTP/1.1[0m" 409 -
+2023-11-03 22:11:43,444 - __main__ - INFO - Received registration request
+2023-11-03 22:11:43,446 - http_request - ERROR - Exception on /register [POST]
+Traceback (most recent call last):
+  File "C:\src\projects\brgy_profiling_capstone\venv\lib\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\src\projects\brgy_profiling_capstone\venv\lib\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\src\projects\brgy_profiling_capstone\venv\lib\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\src\projects\brgy_profiling_capstone\venv\lib\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "http_request.py", line 46, in register_user
+    cursor = conn.cursor()
+  File "C:\src\projects\brgy_profiling_capstone\venv\lib\site-packages\mysql\connector\connection_cext.py", line 704, in cursor
+    self.handle_unread_result(prepared)
+  File "C:\src\projects\brgy_profiling_capstone\venv\lib\site-packages\mysql\connector\connection_cext.py", line 961, in handle_unread_result
+    raise InternalError("Unread result found")
+mysql.connector.errors.InternalError: Unread result found
+2023-11-03 22:11:43,499 - werkzeug - INFO - 192.168.254.115 - - [03/Nov/2023 22:11:43] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2023-11-03 22:11:50,539 - __main__ - INFO - Received registration request
+2023-11-03 22:11:50,539 - http_request - ERROR - Exception on /register [POST]
+Traceback (most recent call last):
+  File "C:\src\projects\brgy_profiling_capstone\venv\lib\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\src\projects\brgy_profiling_capstone\venv\lib\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\src\projects\brgy_profiling_capstone\venv\lib\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\src\projects\brgy_profiling_capstone\venv\lib\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "http_request.py", line 46, in register_user
+    cursor = conn.cursor()
+  File "C:\src\projects\brgy_profiling_capstone\venv\lib\site-packages\mysql\connector\connection_cext.py", line 704, in cursor
+    self.handle_unread_result(prepared)
+  File "C:\src\projects\brgy_profiling_capstone\venv\lib\site-packages\mysql\connector\connection_cext.py", line 961, in handle_unread_result
+    raise InternalError("Unread result found")
+mysql.connector.errors.InternalError: Unread result found
+2023-11-03 22:11:50,541 - werkzeug - INFO - 192.168.254.115 - - [03/Nov/2023 22:11:50] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2023-11-03 22:12:01,515 - __main__ - INFO - Received registration request
+2023-11-03 22:12:01,517 - http_request - ERROR - Exception on /register [POST]
+Traceback (most recent call last):
+  File "C:\src\projects\brgy_profiling_capstone\venv\lib\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\src\projects\brgy_profiling_capstone\venv\lib\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\src\projects\brgy_profiling_capstone\venv\lib\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\src\projects\brgy_profiling_capstone\venv\lib\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "http_request.py", line 46, in register_user
+    cursor = conn.cursor()
+  File "C:\src\projects\brgy_profiling_capstone\venv\lib\site-packages\mysql\connector\connection_cext.py", line 704, in cursor
+    self.handle_unread_result(prepared)
+  File "C:\src\projects\brgy_profiling_capstone\venv\lib\site-packages\mysql\connector\connection_cext.py", line 961, in handle_unread_result
+    raise InternalError("Unread result found")
+mysql.connector.errors.InternalError: Unread result found
+2023-11-03 22:12:01,518 - werkzeug - INFO - 192.168.254.115 - - [03/Nov/2023 22:12:01] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2023-11-03 22:12:54,634 - __main__ - INFO - Received registration request
+2023-11-03 22:12:54,634 - http_request - ERROR - Exception on /register [POST]
+Traceback (most recent call last):
+  File "C:\src\projects\brgy_profiling_capstone\venv\lib\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\src\projects\brgy_profiling_capstone\venv\lib\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\src\projects\brgy_profiling_capstone\venv\lib\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\src\projects\brgy_profiling_capstone\venv\lib\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "http_request.py", line 46, in register_user
+    cursor = conn.cursor()
+  File "C:\src\projects\brgy_profiling_capstone\venv\lib\site-packages\mysql\connector\connection_cext.py", line 704, in cursor
+    self.handle_unread_result(prepared)
+  File "C:\src\projects\brgy_profiling_capstone\venv\lib\site-packages\mysql\connector\connection_cext.py", line 961, in handle_unread_result
+    raise InternalError("Unread result found")
+mysql.connector.errors.InternalError: Unread result found
+2023-11-03 22:12:54,636 - werkzeug - INFO - 192.168.254.115 - - [03/Nov/2023 22:12:54] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2023-11-03 22:13:38,425 - __main__ - INFO - Connected to the database
+2023-11-03 22:13:38,448 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-03 22:13:38,448 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-03 22:14:07,130 - __main__ - INFO - Received registration request
+2023-11-03 22:14:07,157 - __main__ - INFO - User registered successfully
+2023-11-03 22:14:07,158 - werkzeug - INFO - 192.168.254.115 - - [03/Nov/2023 22:14:07] "POST /register HTTP/1.1" 200 -
+2023-11-03 22:18:05,570 - __main__ - INFO - Database connection closed
+2023-11-03 22:29:51,230 - __main__ - INFO - Connected to the database
+2023-11-03 22:29:51,252 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-03 22:29:51,252 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-03 22:29:56,430 - __main__ - INFO - Received registration request
+2023-11-03 22:29:56,432 - __main__ - INFO - User already exists
+2023-11-03 22:29:56,432 - werkzeug - INFO - 192.168.254.115 - - [03/Nov/2023 22:29:56] "[31m[1mPOST /register HTTP/1.1[0m" 409 -
+2023-11-03 22:30:21,827 - __main__ - INFO - Received registration request
+2023-11-03 22:30:21,839 - http_request - ERROR - Exception on /register [POST]
+Traceback (most recent call last):
+  File "C:\src\projects\brgy_profiling_capstone\venv\lib\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\src\projects\brgy_profiling_capstone\venv\lib\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\src\projects\brgy_profiling_capstone\venv\lib\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\src\projects\brgy_profiling_capstone\venv\lib\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "http_request.py", line 45, in register_user
+    cursor = conn.cursor()
+  File "C:\src\projects\brgy_profiling_capstone\venv\lib\site-packages\mysql\connector\connection_cext.py", line 704, in cursor
+    self.handle_unread_result(prepared)
+  File "C:\src\projects\brgy_profiling_capstone\venv\lib\site-packages\mysql\connector\connection_cext.py", line 961, in handle_unread_result
+    raise InternalError("Unread result found")
+mysql.connector.errors.InternalError: Unread result found
+2023-11-03 22:30:21,841 - werkzeug - INFO - 192.168.254.115 - - [03/Nov/2023 22:30:21] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2023-11-03 22:30:34,528 - __main__ - INFO - Received registration request
+2023-11-03 22:30:34,528 - http_request - ERROR - Exception on /register [POST]
+Traceback (most recent call last):
+  File "C:\src\projects\brgy_profiling_capstone\venv\lib\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\src\projects\brgy_profiling_capstone\venv\lib\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\src\projects\brgy_profiling_capstone\venv\lib\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\src\projects\brgy_profiling_capstone\venv\lib\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "http_request.py", line 45, in register_user
+    cursor = conn.cursor()
+  File "C:\src\projects\brgy_profiling_capstone\venv\lib\site-packages\mysql\connector\connection_cext.py", line 704, in cursor
+    self.handle_unread_result(prepared)
+  File "C:\src\projects\brgy_profiling_capstone\venv\lib\site-packages\mysql\connector\connection_cext.py", line 961, in handle_unread_result
+    raise InternalError("Unread result found")
+mysql.connector.errors.InternalError: Unread result found
+2023-11-03 22:30:34,529 - werkzeug - INFO - 192.168.254.115 - - [03/Nov/2023 22:30:34] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2023-11-04 15:31:21,130 - __main__ - INFO - Connected to the database
+2023-11-04 15:31:21,166 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-04 15:31:21,167 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-04 15:33:15,845 - __main__ - INFO - Database connection closed
+2023-11-04 15:33:18,232 - __main__ - INFO - Connected to the database
+2023-11-04 15:33:18,248 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-04 15:33:18,249 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-04 15:33:39,603 - __main__ - INFO - Received login request
+2023-11-04 15:33:39,612 - __main__ - ERROR - Incomplete data received
+2023-11-04 15:33:39,623 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 15:33:39] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2023-11-04 15:33:45,789 - __main__ - INFO - Received login request
+2023-11-04 15:33:45,790 - __main__ - ERROR - Incomplete data received
+2023-11-04 15:33:45,791 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 15:33:45] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2023-11-04 15:35:04,803 - __main__ - INFO - Received login request
+2023-11-04 15:35:04,814 - __main__ - ERROR - Incomplete data received
+2023-11-04 15:35:04,814 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 15:35:04] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2023-11-04 15:36:06,569 - __main__ - INFO - Received registration request
+2023-11-04 15:36:06,576 - __main__ - INFO - User registered successfully
+2023-11-04 15:36:06,578 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 15:36:06] "POST /register HTTP/1.1" 200 -
+2023-11-04 15:36:19,574 - __main__ - INFO - Received login request
+2023-11-04 15:36:19,575 - __main__ - ERROR - Incomplete data received
+2023-11-04 15:36:19,575 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 15:36:19] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2023-11-04 15:37:48,671 - __main__ - INFO - Received login request
+2023-11-04 15:37:48,672 - __main__ - ERROR - Incomplete data received
+2023-11-04 15:37:48,672 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 15:37:48] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2023-11-04 15:43:09,384 - __main__ - INFO - Received login request
+2023-11-04 15:43:09,394 - __main__ - ERROR - Incomplete data received
+2023-11-04 15:43:09,395 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 15:43:09] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2023-11-04 15:46:28,383 - __main__ - INFO - Received login request
+2023-11-04 15:46:28,383 - __main__ - ERROR - Incomplete data received
+2023-11-04 15:46:28,384 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 15:46:28] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2023-11-04 15:47:40,755 - __main__ - INFO - Database connection closed
+2023-11-04 15:47:44,920 - __main__ - INFO - Connected to the database
+2023-11-04 15:47:44,939 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-04 15:47:44,939 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-04 15:48:11,114 - __main__ - INFO - Received login request
+2023-11-04 15:48:11,116 - __main__ - INFO - User logged in successfully
+2023-11-04 15:48:11,117 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 15:48:11] "POST /login HTTP/1.1" 200 -
+2023-11-04 15:48:29,238 - __main__ - INFO - Received login request
+2023-11-04 15:48:29,239 - http_request - ERROR - Exception on /login [POST]
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "http_request.py", line 82, in login_user
+    cursor = conn.cursor()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\mysql\connector\connection.py", line 1212, in cursor
+    self.handle_unread_result()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\mysql\connector\connection.py", line 1523, in handle_unread_result
+    raise InternalError("Unread result found")
+mysql.connector.errors.InternalError: Unread result found
+2023-11-04 15:48:29,292 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 15:48:29] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2023-11-04 15:48:44,457 - __main__ - INFO - Received login request
+2023-11-04 15:48:44,459 - http_request - ERROR - Exception on /login [POST]
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "http_request.py", line 82, in login_user
+    cursor = conn.cursor()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\mysql\connector\connection.py", line 1212, in cursor
+    self.handle_unread_result()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\mysql\connector\connection.py", line 1523, in handle_unread_result
+    raise InternalError("Unread result found")
+mysql.connector.errors.InternalError: Unread result found
+2023-11-04 15:48:44,460 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 15:48:44] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2023-11-04 15:48:55,736 - __main__ - INFO - Received login request
+2023-11-04 15:48:55,746 - __main__ - ERROR - Incomplete data received
+2023-11-04 15:48:55,746 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 15:48:55] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2023-11-04 15:49:15,653 - __main__ - INFO - Received login request
+2023-11-04 15:49:15,663 - http_request - ERROR - Exception on /login [POST]
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "http_request.py", line 82, in login_user
+    cursor = conn.cursor()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\mysql\connector\connection.py", line 1212, in cursor
+    self.handle_unread_result()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\mysql\connector\connection.py", line 1523, in handle_unread_result
+    raise InternalError("Unread result found")
+mysql.connector.errors.InternalError: Unread result found
+2023-11-04 15:49:15,664 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 15:49:15] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2023-11-04 15:51:41,474 - __main__ - INFO - Received login request
+2023-11-04 15:51:41,484 - http_request - ERROR - Exception on /login [POST]
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "http_request.py", line 82, in login_user
+    cursor = conn.cursor()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\mysql\connector\connection.py", line 1212, in cursor
+    self.handle_unread_result()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\mysql\connector\connection.py", line 1523, in handle_unread_result
+    raise InternalError("Unread result found")
+mysql.connector.errors.InternalError: Unread result found
+2023-11-04 15:51:41,484 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 15:51:41] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2023-11-04 15:51:59,773 - __main__ - INFO - Received login request
+2023-11-04 15:51:59,774 - http_request - ERROR - Exception on /login [POST]
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "http_request.py", line 82, in login_user
+    cursor = conn.cursor()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\mysql\connector\connection.py", line 1212, in cursor
+    self.handle_unread_result()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\mysql\connector\connection.py", line 1523, in handle_unread_result
+    raise InternalError("Unread result found")
+mysql.connector.errors.InternalError: Unread result found
+2023-11-04 15:51:59,775 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 15:51:59] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2023-11-04 15:52:12,190 - __main__ - INFO - Connected to the database
+2023-11-04 15:52:12,220 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-04 15:52:12,220 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-04 15:52:32,799 - __main__ - INFO - Received login request
+2023-11-04 15:52:32,811 - __main__ - INFO - User logged in successfully
+2023-11-04 15:52:32,812 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 15:52:32] "POST /login HTTP/1.1" 200 -
+2023-11-04 15:52:45,767 - __main__ - INFO - Received login request
+2023-11-04 15:52:45,768 - http_request - ERROR - Exception on /login [POST]
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "http_request.py", line 82, in login_user
+    cursor = conn.cursor()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\mysql\connector\connection.py", line 1212, in cursor
+    self.handle_unread_result()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\mysql\connector\connection.py", line 1523, in handle_unread_result
+    raise InternalError("Unread result found")
+mysql.connector.errors.InternalError: Unread result found
+2023-11-04 15:52:45,772 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 15:52:45] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2023-11-04 16:06:11,126 - __main__ - INFO - Connected to the database
+2023-11-04 16:06:11,141 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-04 16:06:11,142 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-04 16:06:12,675 - __main__ - INFO - Database connection closed
+2023-11-04 16:17:31,245 - __main__ - INFO - Connected to the database
+2023-11-04 16:17:31,270 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-04 16:17:31,270 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-04 16:17:33,683 - __main__ - INFO - Received registration request
+2023-11-04 16:17:33,689 - __main__ - INFO - User registered successfully
+2023-11-04 16:17:33,690 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 16:17:33] "POST /register HTTP/1.1" 200 -
+2023-11-04 16:17:39,592 - __main__ - INFO - Received login request
+2023-11-04 16:17:39,594 - __main__ - INFO - User logged in successfully
+2023-11-04 16:17:39,595 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 16:17:39] "POST /login HTTP/1.1" 200 -
+2023-11-04 16:17:48,306 - __main__ - INFO - Received login request
+2023-11-04 16:17:48,306 - http_request - ERROR - Exception on /login [POST]
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "http_request.py", line 82, in login_user
+    cursor = conn.cursor()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\mysql\connector\connection.py", line 1212, in cursor
+    self.handle_unread_result()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\mysql\connector\connection.py", line 1523, in handle_unread_result
+    raise InternalError("Unread result found")
+mysql.connector.errors.InternalError: Unread result found
+2023-11-04 16:17:48,309 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 16:17:48] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2023-11-04 16:18:04,946 - __main__ - INFO - Received registration request
+2023-11-04 16:18:04,960 - http_request - ERROR - Exception on /register [POST]
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "http_request.py", line 45, in register_user
+    cursor = conn.cursor()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\mysql\connector\connection.py", line 1212, in cursor
+    self.handle_unread_result()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\mysql\connector\connection.py", line 1523, in handle_unread_result
+    raise InternalError("Unread result found")
+mysql.connector.errors.InternalError: Unread result found
+2023-11-04 16:18:04,961 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 16:18:04] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2023-11-04 16:18:28,515 - __main__ - INFO - Connected to the database
+2023-11-04 16:18:28,538 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-04 16:18:28,538 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-04 16:18:40,208 - __main__ - INFO - Received login request
+2023-11-04 16:18:40,210 - __main__ - INFO - User logged in successfully
+2023-11-04 16:18:40,211 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 16:18:40] "POST /login HTTP/1.1" 200 -
+2023-11-04 16:19:49,953 - __main__ - INFO - Database connection closed
+2023-11-04 16:27:46,223 - __main__ - INFO - Connected to the database
+2023-11-04 16:27:46,250 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-04 16:27:46,250 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-04 16:29:57,270 - __main__ - INFO - Database connection closed
+2023-11-04 16:29:59,385 - __main__ - INFO - Connected to the database
+2023-11-04 16:29:59,409 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-04 16:29:59,417 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-04 18:12:44,607 - __main__ - INFO - Database connection closed
+2023-11-04 18:12:46,284 - __main__ - INFO - Connected to the database
+2023-11-04 18:13:05,984 - __main__ - INFO - Connected to the database
+2023-11-04 18:13:17,601 - __main__ - INFO - Connected to the database
+2023-11-04 18:13:40,874 - __main__ - INFO - Connected to the database
+2023-11-04 18:14:38,568 - __main__ - INFO - Connected to the database
+2023-11-04 18:14:38,574 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-04 18:14:38,574 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-04 18:15:32,326 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 18:15:32] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 18:15:34,129 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 18:15:34] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 18:15:34,337 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 18:15:34] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 18:15:34,552 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 18:15:34] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 18:15:34,781 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 18:15:34] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 18:15:34,965 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 18:15:34] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 18:15:35,156 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 18:15:35] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 18:15:35,364 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 18:15:35] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 18:15:35,551 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 18:15:35] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 18:15:35,737 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 18:15:35] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 18:15:37,822 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 18:15:37] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 18:15:38,406 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 18:15:38] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 18:15:38,635 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 18:15:38] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 18:16:08,470 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 18:16:08] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 18:23:12,909 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 18:23:12] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 18:23:14,039 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 18:23:14] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 18:23:14,225 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 18:23:14] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 18:23:14,406 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 18:23:14] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 18:23:14,572 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 18:23:14] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 18:23:14,718 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 18:23:14] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 18:23:14,878 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 18:23:14] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 18:23:15,038 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 18:23:15] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 18:23:15,184 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 18:23:15] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 18:23:15,364 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 18:23:15] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 18:23:15,589 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 18:23:15] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 18:23:39,135 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 18:23:39] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 18:23:57,971 - __main__ - INFO - Database connection closed
+2023-11-04 18:24:00,072 - __main__ - INFO - Connected to the database
+2023-11-04 18:24:00,081 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-04 18:24:00,081 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-04 18:24:09,943 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 18:24:09] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 18:26:16,664 - __main__ - INFO - Database connection closed
+2023-11-04 18:26:18,039 - __main__ - INFO - Connected to the database
+2023-11-04 18:26:18,046 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-04 18:26:18,046 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-04 18:26:25,146 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 18:26:25] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 18:59:16,520 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 18:59:16] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 19:01:38,275 - __main__ - INFO - Database connection closed
+2023-11-04 19:05:20,638 - __main__ - INFO - Connected to the database
+2023-11-04 19:05:20,646 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-04 19:05:20,646 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-04 19:05:29,464 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 19:05:29] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 19:05:29,466 - __main__ - INFO - Received login request
+2023-11-04 19:05:29,468 - __main__ - INFO - User logged in successfully
+2023-11-04 19:05:29,468 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 19:05:29] "POST /login HTTP/1.1" 200 -
+2023-11-04 19:05:35,470 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 19:05:35] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 19:05:35,471 - __main__ - INFO - Received login request
+2023-11-04 19:05:35,472 - __main__ - INFO - User logged in successfully
+2023-11-04 19:05:35,472 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 19:05:35] "POST /login HTTP/1.1" 200 -
+2023-11-04 19:05:54,843 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 19:05:54] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 19:05:54,845 - __main__ - INFO - Received login request
+2023-11-04 19:05:54,845 - __main__ - INFO - User logged in successfully
+2023-11-04 19:05:54,846 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 19:05:54] "POST /login HTTP/1.1" 200 -
+2023-11-04 19:07:57,302 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 19:07:57] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 19:07:57,305 - __main__ - INFO - Received login request
+2023-11-04 19:07:57,305 - __main__ - INFO - User login failed
+2023-11-04 19:07:57,305 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 19:07:57] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2023-11-04 19:18:27,536 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 19:18:27] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 19:18:27,538 - __main__ - INFO - Received login request
+2023-11-04 19:18:27,539 - __main__ - INFO - User logged in successfully
+2023-11-04 19:18:27,539 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 19:18:27] "POST /login HTTP/1.1" 200 -
+2023-11-04 19:18:50,789 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 19:18:50] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 19:18:50,793 - __main__ - INFO - Received login request
+2023-11-04 19:18:50,794 - __main__ - INFO - User login failed
+2023-11-04 19:18:50,794 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 19:18:50] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2023-11-04 19:18:57,400 - __main__ - INFO - Database connection closed
+2023-11-04 19:18:58,920 - __main__ - INFO - Connected to the database
+2023-11-04 19:18:58,926 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-04 19:18:58,926 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-04 19:19:02,052 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 19:19:02] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 19:19:02,054 - __main__ - INFO - Received login request
+2023-11-04 19:19:02,055 - __main__ - INFO - User login failed
+2023-11-04 19:19:02,055 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 19:19:02] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2023-11-04 19:19:11,350 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 19:19:11] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 19:19:11,353 - __main__ - INFO - Received login request
+2023-11-04 19:19:11,353 - __main__ - INFO - User logged in successfully
+2023-11-04 19:19:11,353 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 19:19:11] "POST /login HTTP/1.1" 200 -
+2023-11-04 19:48:08,817 - __main__ - INFO - Database connection closed
+2023-11-04 19:48:11,599 - __main__ - INFO - Connected to the database
+2023-11-04 19:48:11,609 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-04 19:48:11,609 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-04 19:48:26,088 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 19:48:26] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 19:48:26,091 - __main__ - INFO - Received login request
+2023-11-04 19:48:26,094 - __main__ - INFO - User logged in successfully
+2023-11-04 19:48:26,094 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 19:48:26] "POST /login HTTP/1.1" 200 -
+2023-11-04 19:48:43,382 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 19:48:43] "OPTIONS /add-user-profile HTTP/1.1" 200 -
+2023-11-04 19:48:43,385 - __main__ - INFO - Received user profile creation request
+2023-11-04 19:48:43,388 - __main__ - INFO - Profile Added Successfully
+2023-11-04 19:48:43,388 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 19:48:43] "POST /add-user-profile HTTP/1.1" 200 -
+2023-11-04 19:51:28,409 - __main__ - INFO - Database connection closed
+2023-11-04 19:51:30,454 - __main__ - INFO - Connected to the database
+2023-11-04 19:51:30,461 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-04 19:51:30,461 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-04 19:51:58,989 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 19:51:58] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 19:51:58,991 - __main__ - INFO - Received login request
+2023-11-04 19:51:58,993 - __main__ - INFO - User login failed
+2023-11-04 19:51:58,993 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 19:51:58] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2023-11-04 19:52:02,556 - __main__ - INFO - Database connection closed
+2023-11-04 19:52:04,359 - __main__ - INFO - Connected to the database
+2023-11-04 19:52:04,366 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-04 19:52:04,366 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-04 19:52:30,107 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 19:52:30] "OPTIONS /add-user-profile HTTP/1.1" 200 -
+2023-11-04 19:52:30,109 - __main__ - INFO - Received user profile creation request
+2023-11-04 19:52:30,113 - __main__ - INFO - Profile Added Successfully
+2023-11-04 19:52:30,113 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 19:52:30] "POST /add-user-profile HTTP/1.1" 200 -
+2023-11-04 19:53:11,283 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 19:53:11] "OPTIONS /add-user-profile HTTP/1.1" 200 -
+2023-11-04 19:53:11,285 - __main__ - INFO - Received user profile creation request
+2023-11-04 19:53:11,288 - __main__ - INFO - Profile Added Successfully
+2023-11-04 19:53:11,289 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 19:53:11] "POST /add-user-profile HTTP/1.1" 200 -
+2023-11-04 19:59:03,927 - __main__ - INFO - Database connection closed
+2023-11-04 19:59:05,802 - __main__ - INFO - Connected to the database
+2023-11-04 19:59:05,809 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-04 19:59:05,809 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-04 20:05:27,386 - __main__ - INFO - Database connection closed
+2023-11-04 20:05:29,296 - __main__ - INFO - Connected to the database
+2023-11-04 20:05:29,303 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-04 20:05:29,303 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-04 20:05:34,185 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 20:05:34] "[33mGET /get-user-profiles HTTP/1.1[0m" 404 -
+2023-11-04 20:05:55,255 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 20:05:55] "OPTIONS /add-user-profile HTTP/1.1" 200 -
+2023-11-04 20:05:55,257 - __main__ - INFO - Received user profile creation request
+2023-11-04 20:05:55,260 - __main__ - INFO - Profile Added Successfully
+2023-11-04 20:05:55,261 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 20:05:55] "POST /add-user-profile HTTP/1.1" 200 -
+2023-11-04 20:06:06,864 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 20:06:06] "[33mGET /get-user-profiles HTTP/1.1[0m" 404 -
+2023-11-04 20:14:54,329 - __main__ - INFO - Database connection closed
+2023-11-04 20:14:56,458 - __main__ - INFO - Connected to the database
+2023-11-04 20:14:56,465 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-04 20:14:56,465 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-04 20:15:01,058 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 20:15:01] "[33mGET /get-user-profiles HTTP/1.1[0m" 404 -
+2023-11-04 20:15:36,527 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 20:15:36] "[33mGET /get-user-profiles HTTP/1.1[0m" 404 -
+2023-11-04 20:36:32,133 - __main__ - INFO - Database connection closed
+2023-11-04 20:36:33,312 - __main__ - INFO - Connected to the database
+2023-11-04 20:36:33,319 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-04 20:36:33,319 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-04 20:38:40,694 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 20:38:40] "[33mGET /get-user-profiles HTTP/1.1[0m" 404 -
+2023-11-04 20:38:52,023 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 20:38:52] "OPTIONS /add-user-profile HTTP/1.1" 200 -
+2023-11-04 20:38:52,026 - __main__ - INFO - Received user profile creation request
+2023-11-04 20:38:52,029 - __main__ - INFO - Profile Added Successfully
+2023-11-04 20:38:52,030 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 20:38:52] "POST /add-user-profile HTTP/1.1" 200 -
+2023-11-04 20:39:04,916 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 20:39:04] "[33mGET /get-user-profiles HTTP/1.1[0m" 404 -
+2023-11-04 20:40:44,698 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 20:40:44] "[33mGET /get-user-profiles HTTP/1.1[0m" 404 -
+2023-11-04 20:45:25,740 - __main__ - INFO - Database connection closed
+2023-11-04 20:45:27,134 - __main__ - INFO - Connected to the database
+2023-11-04 20:45:27,141 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-04 20:45:27,141 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-04 20:45:30,838 - __main__ - INFO - Fetching user profiles
+2023-11-04 20:45:30,839 - __main__ - INFO - Fetched user profiles successfully
+2023-11-04 20:45:30,840 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 20:45:30] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-04 20:56:09,085 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 20:56:09] "OPTIONS /add-user-profile HTTP/1.1" 200 -
+2023-11-04 20:56:09,086 - __main__ - INFO - Received user profile creation request
+2023-11-04 20:56:09,090 - __main__ - INFO - Profile Added Successfully
+2023-11-04 20:56:09,091 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 20:56:09] "POST /add-user-profile HTTP/1.1" 200 -
+2023-11-04 20:56:19,641 - __main__ - INFO - Fetching user profiles
+2023-11-04 20:56:19,642 - __main__ - INFO - Fetched user profiles successfully
+2023-11-04 20:56:19,642 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 20:56:19] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-04 20:57:44,074 - __main__ - INFO - Fetching user profiles
+2023-11-04 20:57:44,075 - __main__ - INFO - Fetched user profiles successfully
+2023-11-04 20:57:44,075 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 20:57:44] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-04 20:59:49,825 - __main__ - INFO - Fetching user profiles
+2023-11-04 20:59:49,825 - __main__ - INFO - Fetched user profiles successfully
+2023-11-04 20:59:49,826 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 20:59:49] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-04 21:03:10,669 - __main__ - INFO - Fetching user profiles
+2023-11-04 21:03:10,670 - __main__ - INFO - Fetched user profiles successfully
+2023-11-04 21:03:10,670 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 21:03:10] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-04 21:03:13,458 - __main__ - INFO - Fetching user profiles
+2023-11-04 21:03:13,459 - __main__ - INFO - Fetched user profiles successfully
+2023-11-04 21:03:13,459 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 21:03:13] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-04 21:03:27,695 - __main__ - INFO - Fetching user profiles
+2023-11-04 21:03:27,696 - __main__ - INFO - Fetched user profiles successfully
+2023-11-04 21:03:27,696 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 21:03:27] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-04 21:03:43,382 - __main__ - INFO - Fetching user profiles
+2023-11-04 21:03:43,383 - __main__ - INFO - Fetched user profiles successfully
+2023-11-04 21:03:43,384 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 21:03:43] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-04 21:03:45,612 - __main__ - INFO - Fetching user profiles
+2023-11-04 21:03:45,613 - __main__ - INFO - Fetched user profiles successfully
+2023-11-04 21:03:45,613 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 21:03:45] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-04 21:15:15,057 - __main__ - INFO - Fetching user profiles
+2023-11-04 21:15:15,058 - __main__ - INFO - Fetched user profiles successfully
+2023-11-04 21:15:15,058 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 21:15:15] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-04 21:17:30,199 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 21:17:30] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 21:17:30,201 - __main__ - INFO - Received login request
+2023-11-04 21:17:30,202 - __main__ - INFO - User logged in successfully
+2023-11-04 21:17:30,203 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 21:17:30] "POST /login HTTP/1.1" 200 -
+2023-11-04 21:17:33,610 - __main__ - INFO - Fetching user profiles
+2023-11-04 21:17:33,610 - __main__ - INFO - Fetched user profiles successfully
+2023-11-04 21:17:33,611 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 21:17:33] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-04 21:17:40,768 - __main__ - INFO - Fetching user profiles
+2023-11-04 21:17:40,769 - __main__ - INFO - Fetched user profiles successfully
+2023-11-04 21:17:40,770 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 21:17:40] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-04 21:25:17,042 - __main__ - INFO - Database connection closed
+2023-11-04 21:27:24,316 - __main__ - INFO - Connected to the database
+2023-11-04 21:27:24,324 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-04 21:27:24,324 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-04 21:27:41,780 - __main__ - INFO - Received login request
+2023-11-04 21:27:41,786 - __main__ - INFO - User logged in successfully
+2023-11-04 21:27:41,786 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 21:27:41] "POST /login HTTP/1.1" 200 -
+2023-11-04 22:03:37,982 - __main__ - INFO - Database connection closed
+2023-11-04 22:03:40,494 - __main__ - INFO - Connected to the database
+2023-11-04 22:03:40,502 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-04 22:03:40,502 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-04 22:04:13,866 - __main__ - INFO - Received login request
+2023-11-04 22:04:13,871 - __main__ - INFO - User logged in successfully
+2023-11-04 22:04:13,872 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 22:04:13] "POST /login HTTP/1.1" 200 -
+2023-11-04 22:06:14,730 - __main__ - INFO - Database connection closed
+2023-11-04 22:06:16,488 - __main__ - INFO - Connected to the database
+2023-11-04 22:06:16,495 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-04 22:06:16,495 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-04 22:06:25,206 - __main__ - INFO - Received login request
+2023-11-04 22:06:25,211 - __main__ - INFO - User logged in successfully
+2023-11-04 22:06:25,211 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 22:06:25] "POST /login HTTP/1.1" 200 -
+2023-11-04 22:06:36,225 - __main__ - INFO - Received message insertion request
+2023-11-04 22:06:36,229 - __main__ - INFO - Message inserted successfully
+2023-11-04 22:06:36,229 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 22:06:36] "POST /message HTTP/1.1" 200 -
+2023-11-04 22:07:22,938 - __main__ - INFO - Received message insertion request
+2023-11-04 22:07:22,942 - __main__ - INFO - Message inserted successfully
+2023-11-04 22:07:22,942 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 22:07:22] "POST /message HTTP/1.1" 200 -
+2023-11-04 22:09:22,785 - __main__ - INFO - Received message insertion request
+2023-11-04 22:09:22,789 - __main__ - INFO - Message inserted successfully
+2023-11-04 22:09:22,789 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 22:09:22] "POST /message HTTP/1.1" 200 -
+2023-11-04 22:09:33,185 - __main__ - INFO - Received login request
+2023-11-04 22:09:33,185 - __main__ - INFO - User logged in successfully
+2023-11-04 22:09:33,186 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 22:09:33] "POST /login HTTP/1.1" 200 -
+2023-11-04 22:09:45,974 - __main__ - INFO - Received login request
+2023-11-04 22:09:45,975 - __main__ - INFO - User logged in successfully
+2023-11-04 22:09:45,975 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 22:09:45] "POST /login HTTP/1.1" 200 -
+2023-11-04 22:09:55,334 - __main__ - INFO - Received login request
+2023-11-04 22:09:55,334 - __main__ - ERROR - Incomplete data received
+2023-11-04 22:09:55,334 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 22:09:55] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2023-11-04 22:10:02,138 - __main__ - INFO - Received login request
+2023-11-04 22:10:02,138 - http_request - ERROR - Exception on /login [POST]
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "http_request.py", line 141, in login_user
+    cursor = conn.cursor()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\mysql\connector\connection.py", line 1212, in cursor
+    self.handle_unread_result()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\mysql\connector\connection.py", line 1523, in handle_unread_result
+    raise InternalError("Unread result found")
+mysql.connector.errors.InternalError: Unread result found
+2023-11-04 22:10:02,165 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 22:10:02] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2023-11-04 22:10:14,643 - __main__ - INFO - Received login request
+2023-11-04 22:10:14,643 - http_request - ERROR - Exception on /login [POST]
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "http_request.py", line 141, in login_user
+    cursor = conn.cursor()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\mysql\connector\connection.py", line 1212, in cursor
+    self.handle_unread_result()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\mysql\connector\connection.py", line 1523, in handle_unread_result
+    raise InternalError("Unread result found")
+mysql.connector.errors.InternalError: Unread result found
+2023-11-04 22:10:14,645 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 22:10:14] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2023-11-04 22:11:59,102 - __main__ - INFO - Connected to the database
+2023-11-04 22:11:59,110 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-04 22:11:59,110 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-04 22:12:01,903 - __main__ - INFO - Received login request
+2023-11-04 22:12:01,905 - __main__ - INFO - User logged in successfully
+2023-11-04 22:12:01,905 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 22:12:01] "POST /login HTTP/1.1" 200 -
+2023-11-04 22:13:27,548 - __main__ - INFO - Received login request
+2023-11-04 22:13:27,549 - __main__ - INFO - User logged in successfully
+2023-11-04 22:13:27,549 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 22:13:27] "POST /login HTTP/1.1" 200 -
+2023-11-04 22:22:13,710 - __main__ - INFO - Received login request
+2023-11-04 22:22:13,714 - __main__ - INFO - User logged in successfully
+2023-11-04 22:22:13,714 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 22:22:13] "POST /login HTTP/1.1" 200 -
+2023-11-04 22:23:02,086 - __main__ - INFO - Received message insertion request
+2023-11-04 22:23:02,121 - __main__ - INFO - Message inserted successfully
+2023-11-04 22:23:02,121 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 22:23:02] "POST /message HTTP/1.1" 200 -
+2023-11-04 22:23:33,843 - __main__ - INFO - Received message insertion request
+2023-11-04 22:23:33,843 - __main__ - ERROR - Incomplete data received
+2023-11-04 22:23:33,843 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 22:23:33] "[31m[1mPOST /message HTTP/1.1[0m" 400 -
+2023-11-04 22:23:50,086 - __main__ - INFO - Received message insertion request
+2023-11-04 22:23:50,090 - __main__ - INFO - Message inserted successfully
+2023-11-04 22:23:50,091 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 22:23:50] "POST /message HTTP/1.1" 200 -
+2023-11-04 22:25:00,760 - __main__ - INFO - Received message insertion request
+2023-11-04 22:25:00,766 - __main__ - INFO - Message inserted successfully
+2023-11-04 22:25:00,766 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 22:25:00] "POST /message HTTP/1.1" 200 -
+2023-11-04 22:27:34,434 - __main__ - INFO - Database connection closed
+2023-11-04 22:27:37,404 - __main__ - INFO - Connected to the database
+2023-11-04 22:27:37,411 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-04 22:27:37,411 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-04 22:28:20,661 - __main__ - INFO - Database connection closed
+2023-11-04 22:28:35,802 - __main__ - INFO - Connected to the database
+2023-11-04 22:28:35,811 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-04 22:28:35,811 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-04 22:30:57,277 - __main__ - INFO - Database connection closed
+2023-11-04 22:30:58,903 - __main__ - INFO - Connected to the database
+2023-11-04 22:30:58,909 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-04 22:30:58,909 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-04 22:31:58,466 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 22:31:58] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 22:31:58,468 - __main__ - INFO - Received login request
+2023-11-04 22:31:58,470 - __main__ - INFO - User logged in successfully
+2023-11-04 22:31:58,471 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 22:31:58] "POST /login HTTP/1.1" 200 -
+2023-11-04 22:37:29,081 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 22:37:29] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-04 22:37:29,087 - __main__ - INFO - Received login request
+2023-11-04 22:37:29,089 - __main__ - INFO - User logged in successfully
+2023-11-04 22:37:29,089 - werkzeug - INFO - 192.168.254.115 - - [04/Nov/2023 22:37:29] "POST /login HTTP/1.1" 200 -
+2023-11-05 14:30:12,071 - __main__ - ERROR - Database connection error: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 No connection could be made because the target machine actively refused it)
+2023-11-05 14:30:12,101 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-05 14:30:12,101 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-05 14:32:41,593 - __main__ - INFO - Received login request
+2023-11-05 14:32:41,601 - http_request - ERROR - Exception on /login [POST]
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "http_request.py", line 141, in login_user
+    cursor = conn.cursor()
+AttributeError: 'NoneType' object has no attribute 'cursor'
+2023-11-05 14:32:41,608 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 14:32:41] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2023-11-05 14:33:04,698 - __main__ - INFO - Received login request
+2023-11-05 14:33:04,701 - http_request - ERROR - Exception on /login [POST]
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "http_request.py", line 141, in login_user
+    cursor = conn.cursor()
+AttributeError: 'NoneType' object has no attribute 'cursor'
+2023-11-05 14:33:04,702 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 14:33:04] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2023-11-05 14:33:07,866 - __main__ - INFO - Received login request
+2023-11-05 14:33:07,867 - http_request - ERROR - Exception on /login [POST]
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "http_request.py", line 141, in login_user
+    cursor = conn.cursor()
+AttributeError: 'NoneType' object has no attribute 'cursor'
+2023-11-05 14:33:07,867 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 14:33:07] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2023-11-05 14:33:24,347 - __main__ - INFO - Connected to the database
+2023-11-05 14:33:24,365 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://127.0.0.1:5000
+2023-11-05 14:33:24,365 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-05 14:33:36,118 - __main__ - INFO - Received login request
+2023-11-05 14:33:36,248 - __main__ - INFO - User logged in successfully
+2023-11-05 14:33:36,249 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 14:33:36] "POST /login HTTP/1.1" 200 -
+2023-11-05 14:34:02,072 - __main__ - INFO - Received message insertion request
+2023-11-05 14:34:02,090 - __main__ - INFO - Message inserted successfully
+2023-11-05 14:34:02,091 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 14:34:02] "POST /message HTTP/1.1" 200 -
+2023-11-05 14:34:17,463 - __main__ - INFO - Received message insertion request
+2023-11-05 14:34:17,470 - __main__ - INFO - Message inserted successfully
+2023-11-05 14:34:17,471 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 14:34:17] "POST /message HTTP/1.1" 200 -
+2023-11-05 14:39:46,284 - __main__ - INFO - Received login request
+2023-11-05 14:39:46,295 - __main__ - INFO - User logged in successfully
+2023-11-05 14:39:46,296 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 14:39:46] "POST /login HTTP/1.1" 200 -
+2023-11-05 14:40:03,517 - __main__ - INFO - Received message insertion request
+2023-11-05 14:40:03,526 - __main__ - INFO - Message inserted successfully
+2023-11-05 14:40:03,526 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 14:40:03] "POST /message HTTP/1.1" 200 -
+2023-11-05 14:43:52,796 - __main__ - INFO - Received login request
+2023-11-05 14:43:52,809 - __main__ - INFO - User logged in successfully
+2023-11-05 14:43:52,810 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 14:43:52] "POST /login HTTP/1.1" 200 -
+2023-11-05 14:44:06,575 - __main__ - INFO - Received message insertion request
+2023-11-05 14:44:06,591 - __main__ - INFO - Message inserted successfully
+2023-11-05 14:44:06,591 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 14:44:06] "POST /message HTTP/1.1" 200 -
+2023-11-05 15:07:03,632 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:07:03] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-05 15:07:03,637 - __main__ - INFO - Received login request
+2023-11-05 15:07:03,662 - http_request - ERROR - Exception on /login [POST]
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "http_request.py", line 141, in login_user
+    cursor = conn.cursor()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\mysql\connector\connection.py", line 1215, in cursor
+    raise OperationalError("MySQL Connection not available")
+mysql.connector.errors.OperationalError: MySQL Connection not available
+2023-11-05 15:07:03,868 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:07:03] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2023-11-05 15:07:16,717 - __main__ - ERROR - Database connection error: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 No connection could be made because the target machine actively refused it)
+2023-11-05 15:07:16,755 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-05 15:07:16,755 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-05 15:07:19,109 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:07:19] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-05 15:07:19,114 - __main__ - INFO - Received login request
+2023-11-05 15:07:19,114 - http_request - ERROR - Exception on /login [POST]
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "http_request.py", line 141, in login_user
+    cursor = conn.cursor()
+AttributeError: 'NoneType' object has no attribute 'cursor'
+2023-11-05 15:07:19,118 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:07:19] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2023-11-05 15:07:37,992 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:07:37] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-05 15:07:37,995 - __main__ - INFO - Received login request
+2023-11-05 15:07:37,995 - http_request - ERROR - Exception on /login [POST]
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "http_request.py", line 141, in login_user
+    cursor = conn.cursor()
+AttributeError: 'NoneType' object has no attribute 'cursor'
+2023-11-05 15:07:37,998 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:07:37] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2023-11-05 15:07:58,530 - __main__ - ERROR - Database connection error: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 No connection could be made because the target machine actively refused it)
+2023-11-05 15:07:58,555 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-05 15:07:58,555 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-05 15:08:06,931 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:08:06] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-05 15:08:06,949 - __main__ - INFO - Received login request
+2023-11-05 15:08:06,950 - http_request - ERROR - Exception on /login [POST]
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "http_request.py", line 141, in login_user
+    cursor = conn.cursor()
+AttributeError: 'NoneType' object has no attribute 'cursor'
+2023-11-05 15:08:06,955 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:08:06] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2023-11-05 15:08:15,595 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:08:15] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-05 15:08:15,600 - __main__ - INFO - Received login request
+2023-11-05 15:08:15,600 - http_request - ERROR - Exception on /login [POST]
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "http_request.py", line 141, in login_user
+    cursor = conn.cursor()
+AttributeError: 'NoneType' object has no attribute 'cursor'
+2023-11-05 15:08:15,601 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:08:15] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2023-11-05 15:09:00,794 - __main__ - ERROR - Database connection error: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 No connection could be made because the target machine actively refused it)
+2023-11-05 15:09:00,821 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-05 15:09:00,821 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-05 15:09:13,183 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:09:13] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-05 15:09:13,183 - __main__ - INFO - Received login request
+2023-11-05 15:09:13,183 - http_request - ERROR - Exception on /login [POST]
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "http_request.py", line 141, in login_user
+    cursor = conn.cursor()
+AttributeError: 'NoneType' object has no attribute 'cursor'
+2023-11-05 15:09:13,191 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:09:13] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2023-11-05 15:09:37,272 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:09:37] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-05 15:09:37,277 - __main__ - INFO - Received login request
+2023-11-05 15:09:37,277 - http_request - ERROR - Exception on /login [POST]
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "http_request.py", line 141, in login_user
+    cursor = conn.cursor()
+AttributeError: 'NoneType' object has no attribute 'cursor'
+2023-11-05 15:09:37,279 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:09:37] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2023-11-05 15:10:36,805 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:10:36] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-05 15:10:36,808 - __main__ - INFO - Received login request
+2023-11-05 15:10:36,810 - http_request - ERROR - Exception on /login [POST]
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "http_request.py", line 141, in login_user
+    cursor = conn.cursor()
+AttributeError: 'NoneType' object has no attribute 'cursor'
+2023-11-05 15:10:36,810 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:10:36] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2023-11-05 15:10:48,628 - __main__ - INFO - Connected to the database
+2023-11-05 15:10:48,645 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-05 15:10:48,645 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-05 15:11:04,926 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:11:04] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-05 15:11:04,932 - __main__ - INFO - Received login request
+2023-11-05 15:11:06,567 - http_request - ERROR - Exception on /login [POST]
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\mysql\connector\network.py", line 231, in recv
+    header = self._recv_chunk(sock, size=PACKET_HEADER_LENGTH)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\mysql\connector\network.py", line 176, in _recv_chunk
+    read = sock.recv_into(pkt_view, size)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "http_request.py", line 145, in login_user
+    cursor.execute(query, values)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\mysql\connector\cursor.py", line 617, in execute
+    self._handle_result(self._connection.cmd_query(stmt))
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\mysql\connector\opentelemetry\context_propagation.py", line 77, in wrapper
+    return method(cnx, *args, **kwargs)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\mysql\connector\connection.py", line 843, in cmd_query
+    result = self._handle_result(self._send_cmd(ServerCmd.QUERY, query))
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\mysql\connector\connection.py", line 465, in _send_cmd
+    return self._socket.recv()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\mysql\connector\network.py", line 631, in recv
+    return self._netbroker.recv(self.sock, self.address)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\mysql\connector\network.py", line 242, in recv
+    raise OperationalError(
+mysql.connector.errors.OperationalError: 2055: Lost connection to MySQL server at 'localhost:3306', system error: 10054 An existing connection was forcibly closed by the remote host
+2023-11-05 15:11:06,614 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:11:06] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2023-11-05 15:11:07,898 - __main__ - INFO - Received login request
+2023-11-05 15:11:07,898 - http_request - ERROR - Exception on /login [POST]
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "http_request.py", line 141, in login_user
+    cursor = conn.cursor()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\mysql\connector\connection.py", line 1215, in cursor
+    raise OperationalError("MySQL Connection not available")
+mysql.connector.errors.OperationalError: MySQL Connection not available
+2023-11-05 15:11:07,900 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:11:07] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2023-11-05 15:11:26,079 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:11:26] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-05 15:11:26,085 - __main__ - INFO - Received login request
+2023-11-05 15:11:26,085 - http_request - ERROR - Exception on /login [POST]
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "http_request.py", line 141, in login_user
+    cursor = conn.cursor()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\mysql\connector\connection.py", line 1215, in cursor
+    raise OperationalError("MySQL Connection not available")
+mysql.connector.errors.OperationalError: MySQL Connection not available
+2023-11-05 15:11:26,088 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:11:26] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2023-11-05 15:11:35,269 - __main__ - INFO - Connected to the database
+2023-11-05 15:11:35,287 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-05 15:11:35,287 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-05 15:11:57,605 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:11:57] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-05 15:11:57,610 - __main__ - INFO - Received login request
+2023-11-05 15:11:57,623 - __main__ - INFO - User logged in successfully
+2023-11-05 15:11:57,623 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:11:57] "POST /login HTTP/1.1" 200 -
+2023-11-05 15:12:06,495 - __main__ - INFO - Fetching user profiles
+2023-11-05 15:12:06,500 - __main__ - INFO - Fetched user profiles successfully
+2023-11-05 15:12:06,501 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:12:06] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-05 15:12:13,143 - __main__ - INFO - Fetching user profiles
+2023-11-05 15:12:13,145 - __main__ - INFO - Fetched user profiles successfully
+2023-11-05 15:12:13,146 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:12:13] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-05 15:13:02,851 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:13:02] "OPTIONS /add-user-profile HTTP/1.1" 200 -
+2023-11-05 15:13:02,856 - __main__ - INFO - Received user profile creation request
+2023-11-05 15:13:02,861 - __main__ - INFO - Profile Added Successfully
+2023-11-05 15:13:02,862 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:13:02] "POST /add-user-profile HTTP/1.1" 200 -
+2023-11-05 15:13:11,961 - __main__ - INFO - Fetching user profiles
+2023-11-05 15:13:11,962 - __main__ - INFO - Fetched user profiles successfully
+2023-11-05 15:13:11,963 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:13:11] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-05 15:14:02,456 - __main__ - INFO - Fetching user profiles
+2023-11-05 15:14:02,462 - __main__ - INFO - Fetched user profiles successfully
+2023-11-05 15:14:02,463 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:14:02] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-05 15:14:07,984 - __main__ - INFO - Fetching user profiles
+2023-11-05 15:14:07,985 - __main__ - INFO - Fetched user profiles successfully
+2023-11-05 15:14:07,986 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:14:07] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-05 15:21:26,415 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:21:26] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-05 15:21:26,421 - __main__ - INFO - Received login request
+2023-11-05 15:21:26,424 - __main__ - INFO - User logged in successfully
+2023-11-05 15:21:26,424 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:21:26] "POST /login HTTP/1.1" 200 -
+2023-11-05 15:22:15,839 - __main__ - INFO - Fetching messages
+2023-11-05 15:22:15,861 - __main__ - INFO - Fetched messages successfully
+2023-11-05 15:22:15,862 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:22:15] "GET /fetch-messages HTTP/1.1" 200 -
+2023-11-05 15:23:41,384 - __main__ - INFO - Fetching messages
+2023-11-05 15:23:41,387 - __main__ - INFO - Fetched messages successfully
+2023-11-05 15:23:41,388 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:23:41] "GET /fetch-messages HTTP/1.1" 200 -
+2023-11-05 15:24:44,156 - __main__ - INFO - Fetching messages
+2023-11-05 15:24:44,158 - __main__ - INFO - Fetched messages successfully
+2023-11-05 15:24:44,158 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:24:44] "GET /fetch-messages HTTP/1.1" 200 -
+2023-11-05 15:24:58,335 - __main__ - INFO - Fetching messages
+2023-11-05 15:24:58,337 - __main__ - INFO - Fetched messages successfully
+2023-11-05 15:24:58,338 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:24:58] "GET /fetch-messages HTTP/1.1" 200 -
+2023-11-05 15:25:25,164 - __main__ - INFO - Fetching messages
+2023-11-05 15:25:25,167 - __main__ - INFO - Fetched messages successfully
+2023-11-05 15:25:25,168 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:25:25] "GET /fetch-messages HTTP/1.1" 200 -
+2023-11-05 15:25:57,419 - __main__ - INFO - Fetching user profiles
+2023-11-05 15:25:57,420 - __main__ - INFO - Fetched user profiles successfully
+2023-11-05 15:25:57,421 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:25:57] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-05 15:26:00,461 - __main__ - INFO - Fetching user profiles
+2023-11-05 15:26:00,463 - __main__ - INFO - Fetched user profiles successfully
+2023-11-05 15:26:00,463 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:26:00] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-05 15:26:10,094 - __main__ - INFO - Fetching messages
+2023-11-05 15:26:10,096 - __main__ - INFO - Fetched messages successfully
+2023-11-05 15:26:10,098 - werkzeug - INFO - 192.168.254.115 - - [05/Nov/2023 15:26:10] "GET /fetch-messages HTTP/1.1" 200 -
+2023-11-06 12:48:49,664 - __main__ - INFO - Connected to the database
+2023-11-06 12:48:49,712 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-06 12:48:49,712 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-06 12:50:55,342 - __main__ - INFO - Received login request
+2023-11-06 12:50:55,477 - __main__ - INFO - User logged in successfully
+2023-11-06 12:50:55,479 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 12:50:55] "POST /login HTTP/1.1" 200 -
+2023-11-06 12:51:18,113 - __main__ - INFO - Received message insertion request
+2023-11-06 12:51:18,160 - __main__ - INFO - Message inserted successfully
+2023-11-06 12:51:18,161 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 12:51:18] "POST /message HTTP/1.1" 200 -
+2023-11-06 12:56:39,157 - __main__ - INFO - Database connection closed
+2023-11-06 13:13:58,574 - __main__ - INFO - Connected to the database
+2023-11-06 13:13:58,600 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-06 13:13:58,601 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-06 13:17:54,271 - __main__ - INFO - Database connection closed
+2023-11-06 13:17:56,492 - __main__ - INFO - Connected to the database
+2023-11-06 13:17:56,520 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-06 13:17:56,520 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-06 13:26:43,697 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 13:26:43] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-06 13:26:43,707 - __main__ - INFO - Received login request
+2023-11-06 13:26:43,707 - __main__ - INFO - User logged in successfully
+2023-11-06 13:26:43,707 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 13:26:43] "POST /login HTTP/1.1" 200 -
+2023-11-06 13:28:24,243 - __main__ - INFO - Database connection closed
+2023-11-06 13:28:26,224 - __main__ - INFO - Connected to the database
+2023-11-06 13:28:26,251 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-06 13:28:26,251 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-06 13:32:41,751 - __main__ - INFO - Fetching messages
+2023-11-06 13:32:41,753 - __main__ - INFO - Fetched messages successfully
+2023-11-06 13:32:41,753 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 13:32:41] "GET /fetch-messages HTTP/1.1" 200 -
+2023-11-06 13:35:05,948 - __main__ - INFO - Fetching user profiles
+2023-11-06 13:35:05,950 - __main__ - INFO - Fetched user profiles successfully
+2023-11-06 13:35:05,950 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 13:35:05] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-06 13:43:06,445 - __main__ - INFO - Fetching user profiles
+2023-11-06 13:43:06,446 - __main__ - INFO - Fetched user profiles successfully
+2023-11-06 13:43:06,446 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 13:43:06] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-06 13:44:54,196 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 13:44:54] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-06 13:44:54,199 - __main__ - INFO - Received login request
+2023-11-06 13:44:54,202 - __main__ - INFO - User logged in successfully
+2023-11-06 13:44:54,203 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 13:44:54] "POST /login HTTP/1.1" 200 -
+2023-11-06 14:38:03,627 - __main__ - INFO - Database connection closed
+2023-11-06 14:38:05,658 - __main__ - INFO - Connected to the database
+2023-11-06 14:38:05,676 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-06 14:38:05,676 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-06 14:38:21,747 - __main__ - INFO - Received registration request
+2023-11-06 14:38:21,771 - __main__ - INFO - User registered successfully
+2023-11-06 14:38:21,772 - werkzeug - INFO - 192.168.254.121 - - [06/Nov/2023 14:38:21] "POST /register HTTP/1.1" 200 -
+2023-11-06 14:38:30,662 - __main__ - INFO - Received login request
+2023-11-06 14:38:30,667 - __main__ - INFO - User logged in successfully
+2023-11-06 14:38:30,667 - werkzeug - INFO - 192.168.254.121 - - [06/Nov/2023 14:38:30] "POST /login HTTP/1.1" 200 -
+2023-11-06 14:38:47,777 - __main__ - INFO - Received message insertion request
+2023-11-06 14:38:47,793 - __main__ - INFO - Message inserted successfully
+2023-11-06 14:38:47,795 - werkzeug - INFO - 192.168.254.121 - - [06/Nov/2023 14:38:47] "POST /message HTTP/1.1" 200 -
+2023-11-06 15:31:52,235 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 15:31:52] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-06 15:31:52,241 - __main__ - INFO - Received login request
+2023-11-06 15:31:52,242 - __main__ - INFO - User logged in successfully
+2023-11-06 15:31:52,243 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 15:31:52] "POST /login HTTP/1.1" 200 -
+2023-11-06 15:31:56,375 - __main__ - INFO - Fetching messages
+2023-11-06 15:31:56,377 - __main__ - INFO - Fetched messages successfully
+2023-11-06 15:31:56,377 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 15:31:56] "GET /fetch-messages HTTP/1.1" 200 -
+2023-11-06 15:32:04,039 - __main__ - INFO - Fetching messages
+2023-11-06 15:32:04,041 - __main__ - INFO - Fetched messages successfully
+2023-11-06 15:32:04,042 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 15:32:04] "GET /fetch-messages HTTP/1.1" 200 -
+2023-11-06 15:35:42,427 - __main__ - INFO - Fetching messages
+2023-11-06 15:35:42,429 - __main__ - INFO - Fetched messages successfully
+2023-11-06 15:35:42,429 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 15:35:42] "GET /fetch-messages HTTP/1.1" 200 -
+2023-11-06 15:36:14,331 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 15:36:14] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-06 15:36:14,334 - __main__ - INFO - Received login request
+2023-11-06 15:36:14,334 - __main__ - INFO - User logged in successfully
+2023-11-06 15:36:14,337 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 15:36:14] "POST /login HTTP/1.1" 200 -
+2023-11-06 15:36:16,608 - __main__ - INFO - Fetching messages
+2023-11-06 15:36:16,611 - __main__ - INFO - Fetched messages successfully
+2023-11-06 15:36:16,612 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 15:36:16] "GET /fetch-messages HTTP/1.1" 200 -
+2023-11-06 15:40:48,578 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 15:40:48] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-06 15:40:48,583 - __main__ - INFO - Received login request
+2023-11-06 15:40:48,585 - __main__ - INFO - User logged in successfully
+2023-11-06 15:40:48,586 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 15:40:48] "POST /login HTTP/1.1" 200 -
+2023-11-06 15:45:52,894 - __main__ - INFO - Fetching user profiles
+2023-11-06 15:45:52,894 - __main__ - INFO - Fetched user profiles successfully
+2023-11-06 15:45:52,897 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 15:45:52] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-06 16:48:03,551 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 16:48:03] "[33mOPTIONS /updates HTTP/1.1[0m" 404 -
+2023-11-06 16:49:01,090 - __main__ - INFO - Fetching messages
+2023-11-06 16:49:01,093 - __main__ - INFO - Fetched messages successfully
+2023-11-06 16:49:01,093 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 16:49:01] "GET /fetch-messages HTTP/1.1" 200 -
+2023-11-06 16:49:09,235 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 16:49:09] "[33mOPTIONS /updates HTTP/1.1[0m" 404 -
+2023-11-06 16:54:50,799 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 16:54:50] "[33mOPTIONS /updates HTTP/1.1[0m" 404 -
+2023-11-06 17:15:07,015 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 17:15:07] "[33mOPTIONS /updates HTTP/1.1[0m" 404 -
+2023-11-06 17:15:58,244 - __main__ - INFO - Database connection closed
+2023-11-06 17:16:00,601 - __main__ - INFO - Connected to the database
+2023-11-06 17:18:06,590 - __main__ - INFO - Connected to the database
+2023-11-06 17:18:06,605 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-06 17:18:06,605 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-06 17:18:25,292 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 17:18:25] "OPTIONS /updates HTTP/1.1" 200 -
+2023-11-06 17:18:25,295 - __main__ - INFO - Received message insertion request
+2023-11-06 17:18:25,295 - __main__ - ERROR - Incomplete data received
+2023-11-06 17:18:25,295 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 17:18:25] "[31m[1mPOST /updates HTTP/1.1[0m" 400 -
+2023-11-06 17:20:38,768 - __main__ - INFO - Database connection closed
+2023-11-06 17:20:43,679 - __main__ - INFO - Connected to the database
+2023-11-06 17:20:43,688 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-06 17:20:43,688 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-06 17:21:03,037 - __main__ - INFO - Fetching messages
+2023-11-06 17:21:03,037 - __main__ - INFO - Fetched messages successfully
+2023-11-06 17:21:03,039 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 17:21:03] "GET /fetch-messages HTTP/1.1" 200 -
+2023-11-06 17:21:10,504 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 17:21:10] "[33mOPTIONS /updates_message HTTP/1.1[0m" 404 -
+2023-11-06 17:21:34,795 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 17:21:34] "[33mOPTIONS /update_message HTTP/1.1[0m" 404 -
+2023-11-06 17:22:28,525 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 17:22:28] "[33mOPTIONS /update_message HTTP/1.1[0m" 404 -
+2023-11-06 17:24:17,786 - __main__ - INFO - Database connection closed
+2023-11-06 17:24:19,725 - __main__ - INFO - Connected to the database
+2023-11-06 17:24:19,733 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-06 17:24:19,733 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-06 17:24:35,380 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 17:24:35] "OPTIONS /update_news HTTP/1.1" 200 -
+2023-11-06 17:24:35,382 - __main__ - INFO - Received message insertion request
+2023-11-06 17:24:35,385 - __main__ - INFO - Message inserted successfully
+2023-11-06 17:24:35,385 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 17:24:35] "POST /update_news HTTP/1.1" 200 -
+2023-11-06 17:25:14,525 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 17:25:14] "OPTIONS /update_news HTTP/1.1" 200 -
+2023-11-06 17:25:14,527 - __main__ - INFO - Received message insertion request
+2023-11-06 17:25:14,531 - __main__ - INFO - Message inserted successfully
+2023-11-06 17:25:14,532 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 17:25:14] "POST /update_news HTTP/1.1" 200 -
+2023-11-06 17:32:04,044 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 17:32:04] "[33mGET /fetch-updates HTTP/1.1[0m" 404 -
+2023-11-06 17:32:13,406 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 17:32:13] "OPTIONS /update_news HTTP/1.1" 200 -
+2023-11-06 17:32:13,409 - __main__ - INFO - Received message insertion request
+2023-11-06 17:32:13,413 - __main__ - INFO - Message inserted successfully
+2023-11-06 17:32:13,413 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 17:32:13] "POST /update_news HTTP/1.1" 200 -
+2023-11-06 17:33:43,794 - __main__ - INFO - Database connection closed
+2023-11-06 17:33:45,121 - __main__ - INFO - Connected to the database
+2023-11-06 17:33:45,131 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-06 17:33:45,132 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-06 17:33:56,530 - __main__ - INFO - Fetching messages
+2023-11-06 17:33:56,530 - __main__ - ERROR - Database error: 1054 (42S22): Unknown column 'name' in 'field list'
+2023-11-06 17:33:56,533 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 17:33:56] "[35m[1mGET /fetch-updates HTTP/1.1[0m" 500 -
+2023-11-06 17:33:58,847 - __main__ - INFO - Fetching user profiles
+2023-11-06 17:33:58,848 - __main__ - INFO - Fetched user profiles successfully
+2023-11-06 17:33:58,849 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 17:33:58] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-06 17:34:01,752 - __main__ - INFO - Fetching messages
+2023-11-06 17:34:01,752 - __main__ - ERROR - Database error: 1054 (42S22): Unknown column 'name' in 'field list'
+2023-11-06 17:34:01,752 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 17:34:01] "[35m[1mGET /fetch-updates HTTP/1.1[0m" 500 -
+2023-11-06 17:34:04,701 - __main__ - INFO - Fetching messages
+2023-11-06 17:34:04,702 - __main__ - INFO - Fetched messages successfully
+2023-11-06 17:34:04,702 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 17:34:04] "GET /fetch-messages HTTP/1.1" 200 -
+2023-11-06 17:34:08,901 - __main__ - INFO - Fetching messages
+2023-11-06 17:34:08,901 - __main__ - ERROR - Database error: 1054 (42S22): Unknown column 'name' in 'field list'
+2023-11-06 17:34:08,901 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 17:34:08] "[35m[1mGET /fetch-updates HTTP/1.1[0m" 500 -
+2023-11-06 17:34:12,945 - __main__ - INFO - Fetching messages
+2023-11-06 17:34:12,945 - __main__ - ERROR - Database error: 1054 (42S22): Unknown column 'name' in 'field list'
+2023-11-06 17:34:12,945 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 17:34:12] "[35m[1mGET /fetch-updates HTTP/1.1[0m" 500 -
+2023-11-06 17:39:29,947 - __main__ - INFO - Fetching messages
+2023-11-06 17:39:29,947 - __main__ - ERROR - Database error: 1054 (42S22): Unknown column 'name' in 'field list'
+2023-11-06 17:39:29,947 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 17:39:29] "[35m[1mGET /fetch-updates HTTP/1.1[0m" 500 -
+2023-11-06 17:39:31,257 - __main__ - INFO - Fetching messages
+2023-11-06 17:39:31,258 - __main__ - INFO - Fetched messages successfully
+2023-11-06 17:39:31,259 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 17:39:31] "GET /fetch-messages HTTP/1.1" 200 -
+2023-11-06 17:39:45,878 - __main__ - INFO - Fetching messages
+2023-11-06 17:39:45,878 - __main__ - ERROR - Database error: 1054 (42S22): Unknown column 'name' in 'field list'
+2023-11-06 17:39:45,878 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 17:39:45] "[35m[1mGET /fetch-updates HTTP/1.1[0m" 500 -
+2023-11-06 17:39:57,782 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 17:39:57] "OPTIONS /update_news HTTP/1.1" 200 -
+2023-11-06 17:39:57,783 - __main__ - INFO - Received message insertion request
+2023-11-06 17:39:57,789 - __main__ - INFO - Message inserted successfully
+2023-11-06 17:39:57,789 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 17:39:57] "POST /update_news HTTP/1.1" 200 -
+2023-11-06 17:40:03,002 - __main__ - INFO - Fetching messages
+2023-11-06 17:40:03,002 - __main__ - ERROR - Database error: 1054 (42S22): Unknown column 'name' in 'field list'
+2023-11-06 17:40:03,003 - werkzeug - INFO - 192.168.254.115 - - [06/Nov/2023 17:40:03] "[35m[1mGET /fetch-updates HTTP/1.1[0m" 500 -
+2023-11-06 17:57:08,680 - __main__ - INFO - Database connection closed
+2023-11-09 14:04:50,728 - __main__ - ERROR - Database connection error: 2003: Can't connect to MySQL server on 'localhost:3306' (10061 No connection could be made because the target machine actively refused it)
+2023-11-09 14:04:50,776 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-09 14:04:50,776 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-09 14:06:01,796 - __main__ - INFO - Received login request
+2023-11-09 14:06:01,796 - http_request - ERROR - Exception on /login [POST]
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "http_request.py", line 141, in login_user
+    cursor = conn.cursor()
+AttributeError: 'NoneType' object has no attribute 'cursor'
+2023-11-09 14:06:01,837 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 14:06:01] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2023-11-09 14:06:10,802 - __main__ - INFO - Received login request
+2023-11-09 14:06:10,802 - http_request - ERROR - Exception on /login [POST]
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "http_request.py", line 141, in login_user
+    cursor = conn.cursor()
+AttributeError: 'NoneType' object has no attribute 'cursor'
+2023-11-09 14:06:10,807 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 14:06:10] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2023-11-09 14:06:48,779 - __main__ - INFO - Received login request
+2023-11-09 14:06:48,788 - __main__ - ERROR - Incomplete data received
+2023-11-09 14:06:48,794 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 14:06:48] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2023-11-09 14:06:48,798 - __main__ - INFO - Received login request
+2023-11-09 14:06:48,798 - __main__ - ERROR - Incomplete data received
+2023-11-09 14:06:48,798 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 14:06:48] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2023-11-09 14:06:48,885 - __main__ - INFO - Received login request
+2023-11-09 14:06:48,887 - __main__ - ERROR - Incomplete data received
+2023-11-09 14:06:48,887 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 14:06:48] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2023-11-09 14:06:57,870 - __main__ - INFO - Received login request
+2023-11-09 14:06:57,870 - http_request - ERROR - Exception on /login [POST]
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\Admin\AppData\Roaming\Python\Python38\site-packages\flask\app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "http_request.py", line 141, in login_user
+    cursor = conn.cursor()
+AttributeError: 'NoneType' object has no attribute 'cursor'
+2023-11-09 14:06:57,870 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 14:06:57] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2023-11-09 14:07:13,559 - __main__ - INFO - Connected to the database
+2023-11-09 14:07:13,582 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-09 14:07:13,582 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-09 14:07:42,971 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:07:42] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-09 14:07:42,976 - __main__ - INFO - Received login request
+2023-11-09 14:07:43,100 - __main__ - INFO - User logged in successfully
+2023-11-09 14:07:43,104 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:07:43] "POST /login HTTP/1.1" 200 -
+2023-11-09 14:07:47,527 - __main__ - INFO - Fetching user profiles
+2023-11-09 14:07:47,541 - __main__ - INFO - Fetched user profiles successfully
+2023-11-09 14:07:47,549 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:07:47] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-09 14:07:48,526 - __main__ - INFO - Fetching messages
+2023-11-09 14:07:48,550 - __main__ - ERROR - Database error: 1054 (42S22): Unknown column 'name' in 'field list'
+2023-11-09 14:07:48,554 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:07:48] "[35m[1mGET /fetch-updates HTTP/1.1[0m" 500 -
+2023-11-09 14:07:49,780 - __main__ - INFO - Fetching user profiles
+2023-11-09 14:07:49,787 - __main__ - INFO - Fetched user profiles successfully
+2023-11-09 14:07:49,788 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:07:49] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-09 14:07:56,784 - __main__ - INFO - Fetching messages
+2023-11-09 14:07:56,785 - __main__ - ERROR - Database error: 1054 (42S22): Unknown column 'name' in 'field list'
+2023-11-09 14:07:56,786 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:07:56] "[35m[1mGET /fetch-updates HTTP/1.1[0m" 500 -
+2023-11-09 14:08:00,980 - __main__ - INFO - Fetching messages
+2023-11-09 14:08:01,005 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:08:01,006 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:08:01] "GET /fetch-messages HTTP/1.1" 200 -
+2023-11-09 14:08:08,561 - __main__ - INFO - Fetching messages
+2023-11-09 14:08:08,561 - __main__ - ERROR - Database error: 1054 (42S22): Unknown column 'name' in 'field list'
+2023-11-09 14:08:08,561 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:08:08] "[35m[1mGET /fetch-updates HTTP/1.1[0m" 500 -
+2023-11-09 14:08:10,490 - __main__ - INFO - Fetching user profiles
+2023-11-09 14:08:10,493 - __main__ - INFO - Fetched user profiles successfully
+2023-11-09 14:08:10,494 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:08:10] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-09 14:08:12,016 - __main__ - INFO - Fetching messages
+2023-11-09 14:08:12,017 - __main__ - ERROR - Database error: 1054 (42S22): Unknown column 'name' in 'field list'
+2023-11-09 14:08:12,018 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:08:12] "[35m[1mGET /fetch-updates HTTP/1.1[0m" 500 -
+2023-11-09 14:08:14,679 - __main__ - INFO - Fetching messages
+2023-11-09 14:08:14,682 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:08:14,682 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:08:14] "GET /fetch-messages HTTP/1.1" 200 -
+2023-11-09 14:08:21,748 - __main__ - INFO - Fetching messages
+2023-11-09 14:08:21,750 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:08:21,750 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:08:21] "GET /fetch-messages HTTP/1.1" 200 -
+2023-11-09 14:08:26,690 - __main__ - INFO - Fetching messages
+2023-11-09 14:08:26,691 - __main__ - ERROR - Database error: 1054 (42S22): Unknown column 'name' in 'field list'
+2023-11-09 14:08:26,692 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:08:26] "[35m[1mGET /fetch-updates HTTP/1.1[0m" 500 -
+2023-11-09 14:08:29,965 - __main__ - INFO - Fetching messages
+2023-11-09 14:08:29,966 - __main__ - ERROR - Database error: 1054 (42S22): Unknown column 'name' in 'field list'
+2023-11-09 14:08:29,968 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:08:29] "[35m[1mGET /fetch-updates HTTP/1.1[0m" 500 -
+2023-11-09 14:08:40,308 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:08:40] "OPTIONS /update_news HTTP/1.1" 200 -
+2023-11-09 14:08:40,311 - __main__ - INFO - Received message insertion request
+2023-11-09 14:08:40,315 - __main__ - INFO - Message inserted successfully
+2023-11-09 14:08:40,318 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:08:40] "POST /update_news HTTP/1.1" 200 -
+2023-11-09 14:09:17,522 - __main__ - INFO - Received login request
+2023-11-09 14:09:17,529 - __main__ - INFO - User logged in successfully
+2023-11-09 14:09:17,530 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 14:09:17] "POST /login HTTP/1.1" 200 -
+2023-11-09 14:09:38,794 - __main__ - INFO - Received message insertion request
+2023-11-09 14:09:38,794 - __main__ - ERROR - Incomplete data received
+2023-11-09 14:09:38,794 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 14:09:38] "[31m[1mPOST /message HTTP/1.1[0m" 400 -
+2023-11-09 14:09:46,569 - __main__ - INFO - Received message insertion request
+2023-11-09 14:09:46,602 - __main__ - INFO - Message inserted successfully
+2023-11-09 14:09:46,603 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 14:09:46] "POST /message HTTP/1.1" 200 -
+2023-11-09 14:09:58,954 - __main__ - INFO - Received message insertion request
+2023-11-09 14:09:58,970 - __main__ - INFO - Message inserted successfully
+2023-11-09 14:09:58,970 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 14:09:58] "POST /message HTTP/1.1" 200 -
+2023-11-09 14:10:08,448 - __main__ - INFO - Received message insertion request
+2023-11-09 14:10:08,453 - __main__ - INFO - Message inserted successfully
+2023-11-09 14:10:08,453 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 14:10:08] "POST /message HTTP/1.1" 200 -
+2023-11-09 14:13:24,579 - __main__ - INFO - Received login request
+2023-11-09 14:13:24,585 - __main__ - INFO - User logged in successfully
+2023-11-09 14:13:24,585 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 14:13:24] "POST /login HTTP/1.1" 200 -
+2023-11-09 14:13:31,872 - __main__ - INFO - Received message insertion request
+2023-11-09 14:13:31,889 - __main__ - INFO - Message inserted successfully
+2023-11-09 14:13:31,891 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 14:13:31] "POST /message HTTP/1.1" 200 -
+2023-11-09 14:13:46,466 - __main__ - INFO - Received message insertion request
+2023-11-09 14:13:46,469 - __main__ - INFO - Message inserted successfully
+2023-11-09 14:13:46,470 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 14:13:46] "POST /message HTTP/1.1" 200 -
+2023-11-09 14:14:02,876 - __main__ - INFO - Received message insertion request
+2023-11-09 14:14:02,884 - __main__ - INFO - Message inserted successfully
+2023-11-09 14:14:02,884 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 14:14:02] "POST /message HTTP/1.1" 200 -
+2023-11-09 14:14:18,448 - __main__ - INFO - Received message insertion request
+2023-11-09 14:14:18,458 - __main__ - INFO - Message inserted successfully
+2023-11-09 14:14:18,458 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 14:14:18] "POST /message HTTP/1.1" 200 -
+2023-11-09 14:14:29,722 - __main__ - INFO - Received message insertion request
+2023-11-09 14:14:29,749 - __main__ - INFO - Message inserted successfully
+2023-11-09 14:14:29,750 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 14:14:29] "POST /message HTTP/1.1" 200 -
+2023-11-09 14:15:03,155 - __main__ - INFO - Fetching user profiles
+2023-11-09 14:15:03,157 - __main__ - INFO - Fetched user profiles successfully
+2023-11-09 14:15:03,158 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:15:03] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-09 14:15:04,250 - __main__ - INFO - Fetching messages
+2023-11-09 14:15:04,252 - __main__ - ERROR - Database error: 1054 (42S22): Unknown column 'name' in 'field list'
+2023-11-09 14:15:04,253 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:15:04] "[35m[1mGET /fetch-updates HTTP/1.1[0m" 500 -
+2023-11-09 14:15:13,166 - __main__ - INFO - Fetching messages
+2023-11-09 14:15:13,167 - __main__ - ERROR - Database error: 1054 (42S22): Unknown column 'name' in 'field list'
+2023-11-09 14:15:13,169 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:15:13] "[35m[1mGET /fetch-updates HTTP/1.1[0m" 500 -
+2023-11-09 14:15:38,217 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:15:38] "OPTIONS /update_news HTTP/1.1" 200 -
+2023-11-09 14:15:38,220 - __main__ - INFO - Received message insertion request
+2023-11-09 14:15:38,222 - __main__ - INFO - Message inserted successfully
+2023-11-09 14:15:38,222 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:15:38] "POST /update_news HTTP/1.1" 200 -
+2023-11-09 14:19:06,047 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:19:06] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-09 14:19:06,052 - __main__ - INFO - Received login request
+2023-11-09 14:19:06,054 - __main__ - INFO - User logged in successfully
+2023-11-09 14:19:06,055 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:19:06] "POST /login HTTP/1.1" 200 -
+2023-11-09 14:19:44,544 - __main__ - INFO - Received login request
+2023-11-09 14:19:44,550 - __main__ - INFO - User logged in successfully
+2023-11-09 14:19:44,551 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 14:19:44] "POST /login HTTP/1.1" 200 -
+2023-11-09 14:22:00,698 - __main__ - INFO - Database connection closed
+2023-11-09 14:22:03,643 - __main__ - INFO - Connected to the database
+2023-11-09 14:22:03,677 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-09 14:22:03,677 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-09 14:24:26,209 - __main__ - INFO - Received login request
+2023-11-09 14:24:26,212 - __main__ - INFO - User logged in successfully
+2023-11-09 14:24:26,213 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 14:24:26] "POST /login HTTP/1.1" 200 -
+2023-11-09 14:25:53,584 - __main__ - INFO - Fetching messages
+2023-11-09 14:25:53,587 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:25:53,588 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:25:53] "GET /fetch-messages HTTP/1.1" 200 -
+2023-11-09 14:25:57,232 - __main__ - INFO - Fetching messages
+2023-11-09 14:25:57,235 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:25:57,236 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:25:57] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:26:17,080 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:26:17] "OPTIONS /update_news HTTP/1.1" 200 -
+2023-11-09 14:26:17,084 - __main__ - INFO - Received message insertion request
+2023-11-09 14:26:17,091 - __main__ - INFO - Message inserted successfully
+2023-11-09 14:26:17,092 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:26:17] "POST /update_news HTTP/1.1" 200 -
+2023-11-09 14:26:20,177 - __main__ - INFO - Fetching user profiles
+2023-11-09 14:26:20,179 - __main__ - INFO - Fetched user profiles successfully
+2023-11-09 14:26:20,180 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:26:20] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-09 14:26:21,276 - __main__ - INFO - Fetching messages
+2023-11-09 14:26:21,281 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:26:21,283 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:26:21] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:26:31,030 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:26:31] "OPTIONS /update_news HTTP/1.1" 200 -
+2023-11-09 14:26:31,034 - __main__ - INFO - Received message insertion request
+2023-11-09 14:26:31,039 - __main__ - INFO - Message inserted successfully
+2023-11-09 14:26:31,039 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:26:31] "POST /update_news HTTP/1.1" 200 -
+2023-11-09 14:26:34,025 - __main__ - INFO - Fetching messages
+2023-11-09 14:26:34,027 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:26:34,027 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:26:34] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:26:51,754 - __main__ - INFO - Fetching messages
+2023-11-09 14:26:51,756 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:26:51,757 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:26:51] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:27:06,974 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 14:27:06] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-09 14:27:06,987 - __main__ - INFO - Received login request
+2023-11-09 14:27:06,990 - __main__ - INFO - User logged in successfully
+2023-11-09 14:27:06,990 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 14:27:06] "POST /login HTTP/1.1" 200 -
+2023-11-09 14:27:25,000 - __main__ - INFO - Fetching user profiles
+2023-11-09 14:27:25,001 - __main__ - INFO - Fetched user profiles successfully
+2023-11-09 14:27:25,003 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 14:27:25] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-09 14:28:32,534 - __main__ - INFO - Received login request
+2023-11-09 14:28:32,539 - __main__ - INFO - User logged in successfully
+2023-11-09 14:28:32,541 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 14:28:32] "POST /login HTTP/1.1" 200 -
+2023-11-09 14:29:28,205 - __main__ - INFO - Fetching messages
+2023-11-09 14:29:28,208 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:29:28,208 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:29:28] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:29:32,566 - __main__ - INFO - Fetching messages
+2023-11-09 14:29:32,568 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:29:32,569 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:29:32] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:33:34,634 - __main__ - INFO - Fetching messages
+2023-11-09 14:33:34,636 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:33:34,637 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:33:34] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:33:39,903 - __main__ - INFO - Fetching messages
+2023-11-09 14:33:39,904 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:33:39,906 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:33:39] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:36:10,146 - __main__ - INFO - Fetching messages
+2023-11-09 14:36:10,148 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:36:10,149 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:36:10] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:36:14,588 - __main__ - INFO - Fetching messages
+2023-11-09 14:36:14,588 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:36:14,590 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:36:14] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:36:17,518 - __main__ - INFO - Fetching messages
+2023-11-09 14:36:17,524 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:36:17,524 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:36:17] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:36:37,541 - __main__ - INFO - Fetching messages
+2023-11-09 14:36:37,543 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:36:37,543 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:36:37] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:36:48,038 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:36:48] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-09 14:36:48,042 - __main__ - INFO - Received login request
+2023-11-09 14:36:48,044 - __main__ - INFO - User logged in successfully
+2023-11-09 14:36:48,045 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:36:48] "POST /login HTTP/1.1" 200 -
+2023-11-09 14:36:50,270 - __main__ - INFO - Fetching messages
+2023-11-09 14:36:50,272 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:36:50,273 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:36:50] "GET /fetch-messages HTTP/1.1" 200 -
+2023-11-09 14:36:53,423 - __main__ - INFO - Fetching messages
+2023-11-09 14:36:53,425 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:36:53,426 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:36:53] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:42:44,675 - __main__ - INFO - Fetching messages
+2023-11-09 14:42:44,677 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:42:44,677 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:42:44] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:42:52,613 - __main__ - INFO - Fetching messages
+2023-11-09 14:42:52,618 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:42:52,621 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:42:52] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:43:54,844 - __main__ - INFO - Fetching messages
+2023-11-09 14:43:54,846 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:43:54,846 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:43:54] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:43:59,058 - __main__ - INFO - Fetching user profiles
+2023-11-09 14:43:59,066 - __main__ - INFO - Fetched user profiles successfully
+2023-11-09 14:43:59,066 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:43:59] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-09 14:44:00,299 - __main__ - INFO - Fetching messages
+2023-11-09 14:44:00,301 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:44:00,302 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:44:00] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:45:23,169 - __main__ - INFO - Fetching user profiles
+2023-11-09 14:45:23,171 - __main__ - INFO - Fetched user profiles successfully
+2023-11-09 14:45:23,172 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:45:23] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-09 14:45:26,079 - __main__ - INFO - Fetching messages
+2023-11-09 14:45:26,081 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:45:26,082 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:45:26] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:45:27,119 - __main__ - INFO - Fetching user profiles
+2023-11-09 14:45:27,124 - __main__ - INFO - Fetched user profiles successfully
+2023-11-09 14:45:27,125 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:45:27] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-09 14:45:29,787 - __main__ - INFO - Fetching messages
+2023-11-09 14:45:29,789 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:45:29,790 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:45:29] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:45:33,162 - __main__ - INFO - Fetching user profiles
+2023-11-09 14:45:33,164 - __main__ - INFO - Fetched user profiles successfully
+2023-11-09 14:45:33,166 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:45:33] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-09 14:45:43,726 - __main__ - INFO - Fetching messages
+2023-11-09 14:45:43,728 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:45:43,729 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:45:43] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:45:47,238 - __main__ - INFO - Fetching messages
+2023-11-09 14:45:47,240 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:45:47,241 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:45:47] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:45:51,144 - __main__ - INFO - Fetching user profiles
+2023-11-09 14:45:51,145 - __main__ - INFO - Fetched user profiles successfully
+2023-11-09 14:45:51,146 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:45:51] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-09 14:45:52,396 - __main__ - INFO - Fetching messages
+2023-11-09 14:45:52,396 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:45:52,398 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:45:52] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:47:53,836 - __main__ - INFO - Fetching messages
+2023-11-09 14:47:53,837 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:47:53,838 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:47:53] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:47:58,529 - __main__ - INFO - Fetching messages
+2023-11-09 14:47:58,531 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:47:58,532 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:47:58] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:47:59,512 - __main__ - INFO - Fetching user profiles
+2023-11-09 14:47:59,514 - __main__ - INFO - Fetched user profiles successfully
+2023-11-09 14:47:59,515 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:47:59] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-09 14:48:00,676 - __main__ - INFO - Fetching messages
+2023-11-09 14:48:00,680 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:48:00,682 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:48:00] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:48:01,810 - __main__ - INFO - Fetching user profiles
+2023-11-09 14:48:01,812 - __main__ - INFO - Fetched user profiles successfully
+2023-11-09 14:48:01,813 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:48:01] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-09 14:48:04,620 - __main__ - INFO - Fetching messages
+2023-11-09 14:48:04,628 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:48:04,628 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:48:04] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:49:41,108 - __main__ - INFO - Fetching messages
+2023-11-09 14:49:41,111 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:49:41,111 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:49:41] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:49:48,950 - __main__ - INFO - Fetching messages
+2023-11-09 14:49:48,953 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:49:48,954 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:49:48] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:50:26,668 - __main__ - INFO - Fetching messages
+2023-11-09 14:50:26,670 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:50:26,671 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:50:26] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:50:30,696 - __main__ - INFO - Fetching messages
+2023-11-09 14:50:30,698 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:50:30,699 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:50:30] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:51:44,093 - __main__ - INFO - Fetching messages
+2023-11-09 14:51:44,095 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:51:44,095 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:51:44] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:51:48,533 - __main__ - INFO - Fetching messages
+2023-11-09 14:51:48,535 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:51:48,536 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:51:48] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:51:51,658 - __main__ - INFO - Fetching messages
+2023-11-09 14:51:51,660 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:51:51,661 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:51:51] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:52:25,779 - __main__ - INFO - Fetching messages
+2023-11-09 14:52:25,780 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:52:25,781 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:52:25] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:52:31,772 - __main__ - INFO - Fetching messages
+2023-11-09 14:52:31,775 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:52:31,776 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:52:31] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:57:06,656 - __main__ - INFO - Fetching messages
+2023-11-09 14:57:06,658 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:57:06,659 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:57:06] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:57:08,588 - __main__ - INFO - Fetching messages
+2023-11-09 14:57:08,589 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:57:08,590 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:57:08] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:57:10,592 - __main__ - INFO - Fetching messages
+2023-11-09 14:57:10,594 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:57:10,595 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:57:10] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:57:11,876 - __main__ - INFO - Fetching messages
+2023-11-09 14:57:11,879 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:57:11,879 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:57:11] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:57:13,467 - __main__ - INFO - Fetching messages
+2023-11-09 14:57:13,470 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:57:13,471 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:57:13] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:57:14,600 - __main__ - INFO - Fetching messages
+2023-11-09 14:57:14,602 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:57:14,603 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:57:14] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:58:02,406 - __main__ - INFO - Fetching messages
+2023-11-09 14:58:02,408 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:58:02,409 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:58:02] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:58:04,156 - __main__ - INFO - Fetching messages
+2023-11-09 14:58:04,157 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:58:04,158 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:58:04] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:58:06,002 - __main__ - INFO - Fetching messages
+2023-11-09 14:58:06,003 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:58:06,004 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:58:06] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:58:07,679 - __main__ - INFO - Fetching messages
+2023-11-09 14:58:07,681 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:58:07,681 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:58:07] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:58:10,291 - __main__ - INFO - Fetching messages
+2023-11-09 14:58:10,292 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:58:10,295 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:58:10] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:58:11,465 - __main__ - INFO - Fetching messages
+2023-11-09 14:58:11,467 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:58:11,468 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:58:11] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:58:12,802 - __main__ - INFO - Fetching messages
+2023-11-09 14:58:12,805 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:58:12,806 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:58:12] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 14:58:16,078 - __main__ - INFO - Fetching messages
+2023-11-09 14:58:16,080 - __main__ - INFO - Fetched messages successfully
+2023-11-09 14:58:16,081 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 14:58:16] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 15:01:37,038 - __main__ - INFO - Fetching messages
+2023-11-09 15:01:37,040 - __main__ - INFO - Fetched messages successfully
+2023-11-09 15:01:37,041 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 15:01:37] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 15:01:38,721 - __main__ - INFO - Fetching messages
+2023-11-09 15:01:38,725 - __main__ - INFO - Fetched messages successfully
+2023-11-09 15:01:38,725 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 15:01:38] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 15:01:40,825 - __main__ - INFO - Fetching messages
+2023-11-09 15:01:40,827 - __main__ - INFO - Fetched messages successfully
+2023-11-09 15:01:40,829 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 15:01:40] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 15:01:44,684 - __main__ - INFO - Fetching messages
+2023-11-09 15:01:44,686 - __main__ - INFO - Fetched messages successfully
+2023-11-09 15:01:44,687 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 15:01:44] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 15:01:48,336 - __main__ - INFO - Fetching messages
+2023-11-09 15:01:48,337 - __main__ - INFO - Fetched messages successfully
+2023-11-09 15:01:48,338 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 15:01:48] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 15:02:02,670 - __main__ - INFO - Fetching messages
+2023-11-09 15:02:02,670 - __main__ - INFO - Fetched messages successfully
+2023-11-09 15:02:02,670 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 15:02:02] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 15:02:04,300 - __main__ - INFO - Fetching messages
+2023-11-09 15:02:04,300 - __main__ - INFO - Fetched messages successfully
+2023-11-09 15:02:04,303 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 15:02:04] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 15:02:35,996 - __main__ - INFO - Fetching messages
+2023-11-09 15:02:35,997 - __main__ - INFO - Fetched messages successfully
+2023-11-09 15:02:35,998 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 15:02:35] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 15:02:37,612 - __main__ - INFO - Fetching messages
+2023-11-09 15:02:37,613 - __main__ - INFO - Fetched messages successfully
+2023-11-09 15:02:37,614 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 15:02:37] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 15:02:39,197 - __main__ - INFO - Fetching messages
+2023-11-09 15:02:39,199 - __main__ - INFO - Fetched messages successfully
+2023-11-09 15:02:39,201 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 15:02:39] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 15:02:41,361 - __main__ - INFO - Fetching messages
+2023-11-09 15:02:41,363 - __main__ - INFO - Fetched messages successfully
+2023-11-09 15:02:41,364 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 15:02:41] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 15:02:42,861 - __main__ - INFO - Fetching messages
+2023-11-09 15:02:42,864 - __main__ - INFO - Fetched messages successfully
+2023-11-09 15:02:42,866 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 15:02:42] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 15:02:53,993 - __main__ - INFO - Fetching messages
+2023-11-09 15:02:53,995 - __main__ - INFO - Fetched messages successfully
+2023-11-09 15:02:53,996 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 15:02:53] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 15:02:56,874 - __main__ - INFO - Fetching messages
+2023-11-09 15:02:56,876 - __main__ - INFO - Fetched messages successfully
+2023-11-09 15:02:56,877 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 15:02:56] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 15:03:52,037 - __main__ - INFO - Fetching messages
+2023-11-09 15:03:52,039 - __main__ - INFO - Fetched messages successfully
+2023-11-09 15:03:52,040 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 15:03:52] "GET /fetch-messages HTTP/1.1" 200 -
+2023-11-09 15:04:04,486 - __main__ - INFO - Fetching messages
+2023-11-09 15:04:04,488 - __main__ - INFO - Fetched messages successfully
+2023-11-09 15:04:04,489 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 15:04:04] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 15:04:06,127 - __main__ - INFO - Fetching user profiles
+2023-11-09 15:04:06,128 - __main__ - INFO - Fetched user profiles successfully
+2023-11-09 15:04:06,129 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 15:04:06] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-09 15:04:40,557 - __main__ - INFO - Fetching messages
+2023-11-09 15:04:40,560 - __main__ - INFO - Fetched messages successfully
+2023-11-09 15:04:40,561 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 15:04:40] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 15:04:41,900 - __main__ - INFO - Fetching user profiles
+2023-11-09 15:04:41,900 - __main__ - INFO - Fetched user profiles successfully
+2023-11-09 15:04:41,900 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 15:04:41] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-09 15:04:48,526 - __main__ - INFO - Fetching messages
+2023-11-09 15:04:48,527 - __main__ - INFO - Fetched messages successfully
+2023-11-09 15:04:48,528 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 15:04:48] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 15:04:55,587 - __main__ - INFO - Fetching messages
+2023-11-09 15:04:55,588 - __main__ - INFO - Fetched messages successfully
+2023-11-09 15:04:55,589 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 15:04:55] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 15:07:28,746 - __main__ - INFO - Fetching messages
+2023-11-09 15:07:28,747 - __main__ - INFO - Fetched messages successfully
+2023-11-09 15:07:28,748 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 15:07:28] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 15:07:32,111 - __main__ - INFO - Fetching messages
+2023-11-09 15:07:32,112 - __main__ - INFO - Fetched messages successfully
+2023-11-09 15:07:32,113 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 15:07:32] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 15:07:34,169 - __main__ - INFO - Fetching messages
+2023-11-09 15:07:34,172 - __main__ - INFO - Fetched messages successfully
+2023-11-09 15:07:34,173 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 15:07:34] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 15:07:36,253 - __main__ - INFO - Fetching messages
+2023-11-09 15:07:36,256 - __main__ - INFO - Fetched messages successfully
+2023-11-09 15:07:36,257 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 15:07:36] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 15:07:56,316 - __main__ - INFO - Received login request
+2023-11-09 15:07:56,328 - __main__ - INFO - User logged in successfully
+2023-11-09 15:07:56,330 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 15:07:56] "POST /login HTTP/1.1" 200 -
+2023-11-09 15:19:11,094 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 15:19:11] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-09 15:19:11,107 - __main__ - INFO - Received login request
+2023-11-09 15:19:11,110 - __main__ - INFO - User logged in successfully
+2023-11-09 15:19:11,111 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 15:19:11] "POST /login HTTP/1.1" 200 -
+2023-11-09 15:19:14,760 - __main__ - INFO - Fetching user profiles
+2023-11-09 15:19:14,761 - __main__ - INFO - Fetched user profiles successfully
+2023-11-09 15:19:14,763 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 15:19:14] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-09 15:19:16,911 - __main__ - INFO - Fetching user profiles
+2023-11-09 15:19:16,912 - __main__ - INFO - Fetched user profiles successfully
+2023-11-09 15:19:16,912 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 15:19:16] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-09 15:19:22,338 - __main__ - INFO - Fetching user profiles
+2023-11-09 15:19:22,340 - __main__ - INFO - Fetched user profiles successfully
+2023-11-09 15:19:22,341 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 15:19:22] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-09 15:19:30,632 - __main__ - INFO - Fetching messages
+2023-11-09 15:19:30,634 - __main__ - INFO - Fetched messages successfully
+2023-11-09 15:19:30,634 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 15:19:30] "GET /fetch-messages HTTP/1.1" 200 -
+2023-11-09 15:19:32,172 - __main__ - INFO - Fetching messages
+2023-11-09 15:19:32,177 - __main__ - INFO - Fetched messages successfully
+2023-11-09 15:19:32,178 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 15:19:32] "GET /fetch-messages HTTP/1.1" 200 -
+2023-11-09 15:20:39,382 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 15:20:39] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-09 15:20:39,389 - __main__ - INFO - Received login request
+2023-11-09 15:20:39,390 - __main__ - INFO - User logged in successfully
+2023-11-09 15:20:39,391 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 15:20:39] "POST /login HTTP/1.1" 200 -
+2023-11-09 15:20:45,527 - __main__ - INFO - Fetching user profiles
+2023-11-09 15:20:45,529 - __main__ - INFO - Fetched user profiles successfully
+2023-11-09 15:20:45,531 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 15:20:45] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-09 15:21:04,334 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 15:21:04] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-09 15:21:04,337 - __main__ - INFO - Received login request
+2023-11-09 15:21:04,341 - __main__ - INFO - User logged in successfully
+2023-11-09 15:21:04,342 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 15:21:04] "POST /login HTTP/1.1" 200 -
+2023-11-09 15:21:07,740 - __main__ - INFO - Fetching messages
+2023-11-09 15:21:07,743 - __main__ - INFO - Fetched messages successfully
+2023-11-09 15:21:07,743 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 15:21:07] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 15:21:09,293 - __main__ - INFO - Fetching messages
+2023-11-09 15:21:09,294 - __main__ - INFO - Fetched messages successfully
+2023-11-09 15:21:09,295 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 15:21:09] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 15:21:10,538 - __main__ - INFO - Fetching messages
+2023-11-09 15:21:10,540 - __main__ - INFO - Fetched messages successfully
+2023-11-09 15:21:10,541 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 15:21:10] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 15:21:40,351 - __main__ - INFO - Received login request
+2023-11-09 15:21:40,354 - __main__ - INFO - User logged in successfully
+2023-11-09 15:21:40,354 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 15:21:40] "POST /login HTTP/1.1" 200 -
+2023-11-09 15:23:01,788 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 15:23:01] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-09 15:23:01,829 - __main__ - INFO - Received login request
+2023-11-09 15:23:01,831 - __main__ - INFO - User logged in successfully
+2023-11-09 15:23:01,832 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 15:23:01] "POST /login HTTP/1.1" 200 -
+2023-11-09 15:23:03,879 - __main__ - INFO - Fetching user profiles
+2023-11-09 15:23:03,881 - __main__ - INFO - Fetched user profiles successfully
+2023-11-09 15:23:03,882 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 15:23:03] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-09 15:23:06,125 - __main__ - INFO - Fetching user profiles
+2023-11-09 15:23:06,127 - __main__ - INFO - Fetched user profiles successfully
+2023-11-09 15:23:06,128 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 15:23:06] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-09 15:23:10,910 - __main__ - INFO - Fetching messages
+2023-11-09 15:23:10,911 - __main__ - INFO - Fetched messages successfully
+2023-11-09 15:23:10,912 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 15:23:10] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 15:23:13,890 - __main__ - INFO - Fetching messages
+2023-11-09 15:23:13,892 - __main__ - INFO - Fetched messages successfully
+2023-11-09 15:23:13,893 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 15:23:13] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 15:24:17,311 - __main__ - INFO - Fetching user profiles
+2023-11-09 15:24:17,312 - __main__ - INFO - Fetched user profiles successfully
+2023-11-09 15:24:17,314 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 15:24:17] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-09 15:24:18,032 - __main__ - INFO - Fetching messages
+2023-11-09 15:24:18,033 - __main__ - INFO - Fetched messages successfully
+2023-11-09 15:24:18,034 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 15:24:18] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 15:24:19,244 - __main__ - INFO - Fetching messages
+2023-11-09 15:24:19,245 - __main__ - INFO - Fetched messages successfully
+2023-11-09 15:24:19,247 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 15:24:19] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 15:24:20,173 - __main__ - INFO - Fetching messages
+2023-11-09 15:24:20,174 - __main__ - INFO - Fetched messages successfully
+2023-11-09 15:24:20,175 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 15:24:20] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 15:24:21,919 - __main__ - INFO - Fetching messages
+2023-11-09 15:24:21,922 - __main__ - INFO - Fetched messages successfully
+2023-11-09 15:24:21,922 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 15:24:21] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 15:24:24,717 - __main__ - INFO - Fetching user profiles
+2023-11-09 15:24:24,719 - __main__ - INFO - Fetched user profiles successfully
+2023-11-09 15:24:24,720 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 15:24:24] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-09 15:24:25,616 - __main__ - INFO - Fetching messages
+2023-11-09 15:24:25,617 - __main__ - INFO - Fetched messages successfully
+2023-11-09 15:24:25,617 - werkzeug - INFO - 192.168.254.121 - - [09/Nov/2023 15:24:25] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 15:25:59,152 - __main__ - INFO - Received login request
+2023-11-09 15:25:59,163 - __main__ - INFO - User logged in successfully
+2023-11-09 15:25:59,164 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 15:25:59] "POST /login HTTP/1.1" 200 -
+2023-11-09 16:15:53,439 - __main__ - INFO - Received login request
+2023-11-09 16:15:53,443 - __main__ - INFO - User logged in successfully
+2023-11-09 16:15:53,443 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 16:15:53] "POST /login HTTP/1.1" 200 -
+2023-11-09 16:17:01,677 - __main__ - INFO - Fetching messages
+2023-11-09 16:17:01,678 - __main__ - INFO - Fetched messages successfully
+2023-11-09 16:17:01,678 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 16:17:01] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 16:17:04,237 - __main__ - INFO - Fetching messages
+2023-11-09 16:17:04,238 - __main__ - INFO - Fetched messages successfully
+2023-11-09 16:17:04,238 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 16:17:04] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 16:17:29,106 - __main__ - INFO - Fetching messages
+2023-11-09 16:17:29,107 - __main__ - INFO - Fetched messages successfully
+2023-11-09 16:17:29,107 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 16:17:29] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 16:17:31,553 - __main__ - INFO - Fetching messages
+2023-11-09 16:17:31,553 - __main__ - INFO - Fetched messages successfully
+2023-11-09 16:17:31,554 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 16:17:31] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 16:17:34,104 - __main__ - INFO - Fetching messages
+2023-11-09 16:17:34,105 - __main__ - INFO - Fetched messages successfully
+2023-11-09 16:17:34,105 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 16:17:34] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 16:17:45,220 - __main__ - INFO - Fetching messages
+2023-11-09 16:17:45,220 - __main__ - INFO - Fetched messages successfully
+2023-11-09 16:17:45,221 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 16:17:45] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 16:17:51,400 - __main__ - INFO - Fetching messages
+2023-11-09 16:17:51,400 - __main__ - INFO - Fetched messages successfully
+2023-11-09 16:17:51,401 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 16:17:51] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 16:17:57,769 - __main__ - INFO - Fetching messages
+2023-11-09 16:17:57,770 - __main__ - INFO - Fetched messages successfully
+2023-11-09 16:17:57,770 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 16:17:57] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 16:19:25,403 - __main__ - INFO - Fetching messages
+2023-11-09 16:19:25,403 - __main__ - INFO - Fetched messages successfully
+2023-11-09 16:19:25,404 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 16:19:25] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 16:19:26,713 - __main__ - INFO - Fetching messages
+2023-11-09 16:19:26,714 - __main__ - INFO - Fetched messages successfully
+2023-11-09 16:19:26,714 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 16:19:26] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 16:19:29,020 - __main__ - INFO - Fetching messages
+2023-11-09 16:19:29,021 - __main__ - INFO - Fetched messages successfully
+2023-11-09 16:19:29,021 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 16:19:29] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 16:19:29,888 - __main__ - INFO - Fetching messages
+2023-11-09 16:19:29,888 - __main__ - INFO - Fetched messages successfully
+2023-11-09 16:19:29,889 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 16:19:29] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 16:20:09,351 - __main__ - INFO - Fetching messages
+2023-11-09 16:20:09,351 - __main__ - INFO - Fetched messages successfully
+2023-11-09 16:20:09,352 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 16:20:09] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 16:20:10,331 - __main__ - INFO - Fetching messages
+2023-11-09 16:20:10,331 - __main__ - INFO - Fetched messages successfully
+2023-11-09 16:20:10,332 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 16:20:10] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 16:20:11,181 - __main__ - INFO - Fetching messages
+2023-11-09 16:20:11,181 - __main__ - INFO - Fetched messages successfully
+2023-11-09 16:20:11,181 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 16:20:11] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 16:20:13,045 - __main__ - INFO - Fetching messages
+2023-11-09 16:20:13,046 - __main__ - INFO - Fetched messages successfully
+2023-11-09 16:20:13,046 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 16:20:13] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 16:20:15,142 - __main__ - INFO - Fetching messages
+2023-11-09 16:20:15,143 - __main__ - INFO - Fetched messages successfully
+2023-11-09 16:20:15,143 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 16:20:15] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 16:20:16,046 - __main__ - INFO - Fetching messages
+2023-11-09 16:20:16,047 - __main__ - INFO - Fetched messages successfully
+2023-11-09 16:20:16,047 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 16:20:16] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 16:20:18,257 - __main__ - INFO - Fetching messages
+2023-11-09 16:20:18,257 - __main__ - INFO - Fetched messages successfully
+2023-11-09 16:20:18,258 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 16:20:18] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 16:20:30,856 - __main__ - INFO - Fetching messages
+2023-11-09 16:20:30,856 - __main__ - INFO - Fetched messages successfully
+2023-11-09 16:20:30,857 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 16:20:30] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 16:20:32,246 - __main__ - INFO - Fetching messages
+2023-11-09 16:20:32,247 - __main__ - INFO - Fetched messages successfully
+2023-11-09 16:20:32,247 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 16:20:32] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 16:20:39,272 - __main__ - INFO - Fetching messages
+2023-11-09 16:20:39,272 - __main__ - INFO - Fetched messages successfully
+2023-11-09 16:20:39,273 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 16:20:39] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 16:20:49,622 - __main__ - INFO - Fetching messages
+2023-11-09 16:20:49,622 - __main__ - INFO - Fetched messages successfully
+2023-11-09 16:20:49,623 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 16:20:49] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 16:21:00,768 - __main__ - INFO - Fetching messages
+2023-11-09 16:21:00,770 - __main__ - INFO - Fetched messages successfully
+2023-11-09 16:21:00,770 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 16:21:00] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 18:25:35,107 - __main__ - INFO - Fetching messages
+2023-11-09 18:25:35,111 - __main__ - INFO - Fetched messages successfully
+2023-11-09 18:25:35,113 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 18:25:35] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 18:25:38,248 - __main__ - INFO - Fetching messages
+2023-11-09 18:25:38,249 - __main__ - INFO - Fetched messages successfully
+2023-11-09 18:25:38,249 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 18:25:38] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 18:25:39,191 - __main__ - INFO - Fetching messages
+2023-11-09 18:25:39,192 - __main__ - INFO - Fetched messages successfully
+2023-11-09 18:25:39,192 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 18:25:39] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 18:25:40,075 - __main__ - INFO - Fetching messages
+2023-11-09 18:25:40,076 - __main__ - INFO - Fetched messages successfully
+2023-11-09 18:25:40,076 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 18:25:40] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 18:25:47,835 - __main__ - INFO - Fetching messages
+2023-11-09 18:25:47,836 - __main__ - INFO - Fetched messages successfully
+2023-11-09 18:25:47,836 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 18:25:47] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 18:25:48,948 - __main__ - INFO - Fetching messages
+2023-11-09 18:25:48,949 - __main__ - INFO - Fetched messages successfully
+2023-11-09 18:25:48,950 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 18:25:48] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 18:25:57,131 - __main__ - INFO - Fetching messages
+2023-11-09 18:25:57,132 - __main__ - INFO - Fetched messages successfully
+2023-11-09 18:25:57,132 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 18:25:57] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-09 18:25:58,544 - __main__ - INFO - Fetching messages
+2023-11-09 18:25:58,545 - __main__ - INFO - Fetched messages successfully
+2023-11-09 18:25:58,545 - werkzeug - INFO - 192.168.254.115 - - [09/Nov/2023 18:25:58] "GET /fetch-updates HTTP/1.1" 200 -
+2023-11-10 13:03:48,619 - __main__ - INFO - Connected to the database
+2023-11-10 13:03:48,638 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-10 13:03:48,638 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-10 13:06:57,193 - __main__ - INFO - Database connection closed
+2023-11-10 13:06:59,773 - __main__ - INFO - Connected to the database
+2023-11-10 13:06:59,789 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.227:5000
+2023-11-10 13:06:59,789 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-10 13:20:18,967 - __main__ - INFO - Connected to the database
+2023-11-10 13:20:18,981 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.227:5000
+2023-11-10 13:20:18,982 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-10 13:22:25,060 - __main__ - INFO - Database connection closed
+2023-11-10 13:22:26,214 - __main__ - INFO - Connected to the database
+2023-11-10 13:22:26,223 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.227:5000
+2023-11-10 13:22:26,224 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-10 13:23:18,002 - __main__ - INFO - Database connection closed
+2023-11-10 13:23:19,145 - __main__ - INFO - Connected to the database
+2023-11-10 13:23:19,154 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.227:5000
+2023-11-10 13:23:19,155 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-10 13:25:29,302 - __main__ - INFO - Database connection closed
+2023-11-10 13:25:31,115 - __main__ - INFO - Connected to the database
+2023-11-10 13:25:31,125 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.40:5000
+2023-11-10 13:25:31,125 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-10 13:26:52,963 - __main__ - INFO - Database connection closed
+2023-11-10 13:26:54,317 - __main__ - INFO - Connected to the database
+2023-11-10 13:26:54,326 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.40:5000
+2023-11-10 13:26:54,326 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-10 13:28:44,100 - __main__ - INFO - Database connection closed
+2023-11-10 13:28:45,872 - __main__ - INFO - Connected to the database
+2023-11-10 13:28:45,882 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.40:5000
+2023-11-10 13:28:45,882 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-10 13:30:45,329 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:30:45] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-10 13:30:45,332 - __main__ - INFO - Received login request
+2023-11-10 13:30:45,339 - __main__ - INFO - User login failed
+2023-11-10 13:30:45,340 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:30:45] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2023-11-10 13:30:51,427 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:30:51] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-10 13:30:51,429 - __main__ - INFO - Received login request
+2023-11-10 13:30:51,430 - __main__ - INFO - User logged in successfully
+2023-11-10 13:30:51,431 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:30:51] "POST /login HTTP/1.1" 200 -
+2023-11-10 13:35:18,657 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:35:18] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-10 13:35:18,659 - __main__ - INFO - Received login request
+2023-11-10 13:35:18,661 - __main__ - INFO - User logged in successfully
+2023-11-10 13:35:18,661 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:35:18] "POST /login HTTP/1.1" 200 -
+2023-11-10 13:35:21,894 - __main__ - INFO - Fetching user profiles
+2023-11-10 13:35:21,895 - __main__ - INFO - Fetched user profiles successfully
+2023-11-10 13:35:21,895 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:35:21] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-10 13:35:24,328 - __main__ - INFO - Fetching user profiles
+2023-11-10 13:35:24,329 - __main__ - INFO - Fetched user profiles successfully
+2023-11-10 13:35:24,329 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:35:24] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-10 13:36:42,234 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:36:42] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-10 13:36:42,237 - __main__ - INFO - Received login request
+2023-11-10 13:36:42,240 - __main__ - INFO - User login failed
+2023-11-10 13:36:42,240 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:36:42] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2023-11-10 13:36:46,189 - __main__ - INFO - Received login request
+2023-11-10 13:36:46,190 - __main__ - INFO - User login failed
+2023-11-10 13:36:46,191 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:36:46] "[31m[1mPOST /login HTTP/1.1[0m" 401 -
+2023-11-10 13:36:49,732 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:36:49] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-10 13:36:49,733 - __main__ - INFO - Received login request
+2023-11-10 13:36:49,735 - __main__ - INFO - User logged in successfully
+2023-11-10 13:36:49,736 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:36:49] "POST /login HTTP/1.1" 200 -
+2023-11-10 13:36:52,843 - __main__ - INFO - Fetching user profiles
+2023-11-10 13:36:52,843 - __main__ - INFO - Fetched user profiles successfully
+2023-11-10 13:36:52,845 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:36:52] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-10 13:36:54,312 - __main__ - INFO - Fetching messages
+2023-11-10 13:36:54,319 - __main__ - ERROR - Database error: 1054 (42S22): Unknown column 'name' in 'field list'
+2023-11-10 13:36:54,319 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:36:54] "[35m[1mGET /fetch-updates HTTP/1.1[0m" 500 -
+2023-11-10 13:36:56,685 - __main__ - INFO - Fetching messages
+2023-11-10 13:36:56,685 - __main__ - ERROR - Database error: 1054 (42S22): Unknown column 'name' in 'field list'
+2023-11-10 13:36:56,686 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:36:56] "[35m[1mGET /fetch-updates HTTP/1.1[0m" 500 -
+2023-11-10 13:36:58,103 - __main__ - INFO - Fetching messages
+2023-11-10 13:36:58,104 - __main__ - ERROR - Database error: 1054 (42S22): Unknown column 'name' in 'field list'
+2023-11-10 13:36:58,104 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:36:58] "[35m[1mGET /fetch-updates HTTP/1.1[0m" 500 -
+2023-11-10 13:36:59,331 - __main__ - INFO - Fetching messages
+2023-11-10 13:36:59,331 - __main__ - ERROR - Database error: 1054 (42S22): Unknown column 'name' in 'field list'
+2023-11-10 13:36:59,332 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:36:59] "[35m[1mGET /fetch-updates HTTP/1.1[0m" 500 -
+2023-11-10 13:37:03,199 - __main__ - INFO - Fetching messages
+2023-11-10 13:37:03,200 - __main__ - ERROR - Database error: 1054 (42S22): Unknown column 'name' in 'field list'
+2023-11-10 13:37:03,200 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:37:03] "[35m[1mGET /fetch-updates HTTP/1.1[0m" 500 -
+2023-11-10 13:38:41,462 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:38:41] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-10 13:38:41,464 - __main__ - INFO - Received login request
+2023-11-10 13:38:41,467 - __main__ - INFO - User logged in successfully
+2023-11-10 13:38:41,468 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:38:41] "POST /login HTTP/1.1" 200 -
+2023-11-10 13:38:43,458 - __main__ - INFO - Fetching user profiles
+2023-11-10 13:38:43,459 - __main__ - INFO - Fetched user profiles successfully
+2023-11-10 13:38:43,459 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:38:43] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-10 13:38:44,677 - __main__ - INFO - Fetching messages
+2023-11-10 13:38:44,678 - __main__ - ERROR - Database error: 1054 (42S22): Unknown column 'name' in 'field list'
+2023-11-10 13:38:44,678 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:38:44] "[35m[1mGET /fetch-updates HTTP/1.1[0m" 500 -
+2023-11-10 13:39:23,710 - __main__ - INFO - Fetching messages
+2023-11-10 13:39:23,711 - __main__ - ERROR - Database error: 1054 (42S22): Unknown column 'name' in 'field list'
+2023-11-10 13:39:23,712 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:39:23] "[35m[1mGET /fetch-updates HTTP/1.1[0m" 500 -
+2023-11-10 13:39:24,716 - __main__ - INFO - Fetching user profiles
+2023-11-10 13:39:24,717 - __main__ - INFO - Fetched user profiles successfully
+2023-11-10 13:39:24,717 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:39:24] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-10 13:39:27,259 - __main__ - INFO - Fetching user profiles
+2023-11-10 13:39:27,260 - __main__ - INFO - Fetched user profiles successfully
+2023-11-10 13:39:27,261 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:39:27] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-10 13:40:22,172 - __main__ - INFO - Database connection closed
+2023-11-10 13:40:23,339 - __main__ - INFO - Connected to the database
+2023-11-10 13:40:23,348 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.40:5000
+2023-11-10 13:40:23,349 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-10 13:40:31,312 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:40:31] "OPTIONS /login HTTP/1.1" 200 -
+2023-11-10 13:40:31,320 - __main__ - INFO - Received login request
+2023-11-10 13:40:31,320 - __main__ - INFO - User logged in successfully
+2023-11-10 13:40:31,320 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:40:31] "POST /login HTTP/1.1" 200 -
+2023-11-10 13:40:33,088 - __main__ - INFO - Fetching user profiles
+2023-11-10 13:40:33,089 - __main__ - INFO - Fetched user profiles successfully
+2023-11-10 13:40:33,089 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:40:33] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-10 13:40:34,491 - __main__ - INFO - Fetching messages
+2023-11-10 13:40:34,491 - __main__ - ERROR - Database error: 1054 (42S22): Unknown column 'name' in 'field list'
+2023-11-10 13:40:34,491 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:40:34] "[35m[1mGET /fetch-updates HTTP/1.1[0m" 500 -
+2023-11-10 13:40:40,922 - __main__ - INFO - Fetching messages
+2023-11-10 13:40:40,923 - __main__ - ERROR - Database error: 1054 (42S22): Unknown column 'name' in 'field list'
+2023-11-10 13:40:40,923 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:40:40] "[35m[1mGET /fetch-updates HTTP/1.1[0m" 500 -
+2023-11-10 13:40:41,882 - __main__ - INFO - Fetching user profiles
+2023-11-10 13:40:41,883 - __main__ - INFO - Fetched user profiles successfully
+2023-11-10 13:40:41,884 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:40:41] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-10 13:42:04,158 - __main__ - INFO - Fetching messages
+2023-11-10 13:42:04,159 - __main__ - ERROR - Database error: 1054 (42S22): Unknown column 'name' in 'field list'
+2023-11-10 13:42:04,159 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:42:04] "[35m[1mGET /fetch-updates HTTP/1.1[0m" 500 -
+2023-11-10 13:42:40,109 - __main__ - INFO - Fetching user profiles
+2023-11-10 13:42:40,110 - __main__ - INFO - Fetched user profiles successfully
+2023-11-10 13:42:40,110 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:42:40] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-10 13:44:52,029 - __main__ - INFO - Fetching messages
+2023-11-10 13:44:52,029 - __main__ - ERROR - Database error: 1054 (42S22): Unknown column 'name' in 'field list'
+2023-11-10 13:44:52,030 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:44:52] "[35m[1mGET /fetch-updates HTTP/1.1[0m" 500 -
+2023-11-10 13:45:07,612 - __main__ - INFO - Fetching user profiles
+2023-11-10 13:45:07,613 - __main__ - INFO - Fetched user profiles successfully
+2023-11-10 13:45:07,613 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:45:07] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-10 13:45:10,219 - __main__ - INFO - Fetching user profiles
+2023-11-10 13:45:10,221 - __main__ - INFO - Fetched user profiles successfully
+2023-11-10 13:45:10,221 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:45:10] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-10 13:51:02,150 - __main__ - INFO - Fetching user profiles
+2023-11-10 13:51:02,151 - __main__ - INFO - Fetched user profiles successfully
+2023-11-10 13:51:02,151 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:51:02] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-10 13:54:46,542 - __main__ - INFO - Fetching user profiles
+2023-11-10 13:54:46,543 - __main__ - INFO - Fetched user profiles successfully
+2023-11-10 13:54:46,543 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:54:46] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-10 13:55:14,178 - __main__ - INFO - Fetching user profiles
+2023-11-10 13:55:14,179 - __main__ - INFO - Fetched user profiles successfully
+2023-11-10 13:55:14,179 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:55:14] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-10 13:55:20,399 - __main__ - INFO - Fetching messages
+2023-11-10 13:55:20,399 - __main__ - ERROR - Database error: 1054 (42S22): Unknown column 'name' in 'field list'
+2023-11-10 13:55:20,400 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:55:20] "[35m[1mGET /fetch-updates HTTP/1.1[0m" 500 -
+2023-11-10 13:55:21,585 - __main__ - INFO - Fetching user profiles
+2023-11-10 13:55:21,593 - __main__ - INFO - Fetched user profiles successfully
+2023-11-10 13:55:21,593 - werkzeug - INFO - 192.168.1.40 - - [10/Nov/2023 13:55:21] "GET /fetch-user-profiles HTTP/1.1" 200 -
+2023-11-10 13:56:07,073 - __main__ - INFO - Database connection closed
+2023-11-21 15:22:40,645 - __main__ - INFO - Connected to the database
+2023-11-21 15:22:40,654 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-21 15:22:40,654 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-21 16:27:02,542 - __main__ - INFO - Database connection closed
+2023-11-21 16:27:24,509 - __main__ - INFO - Connected to the database
+2023-11-21 16:27:24,525 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-21 16:27:24,525 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-21 16:29:11,672 - __main__ - INFO - Database connection closed
+2023-11-21 16:29:13,922 - __main__ - INFO - Connected to the database
+2023-11-21 16:29:13,930 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-21 16:29:13,930 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-21 16:39:51,343 - __main__ - INFO - Database connection closed
+2023-11-21 16:39:53,201 - __main__ - INFO - Connected to the database
+2023-11-21 16:39:53,210 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-21 16:39:53,210 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-21 17:29:49,585 - __main__ - INFO - Database connection closed
+2023-11-21 17:29:50,927 - __main__ - INFO - Connected to the database
+2023-11-21 17:29:50,942 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-21 17:29:50,942 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-21 17:30:11,286 - __main__ - INFO - Database connection closed
+2023-11-21 17:30:12,167 - __main__ - INFO - Connected to the database
+2023-11-21 17:30:12,176 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-21 17:30:12,176 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-21 17:41:43,963 - __main__ - INFO - Database connection closed
+2023-11-21 17:41:45,090 - __main__ - INFO - Connected to the database
+2023-11-21 17:41:45,101 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-21 17:41:45,101 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-21 17:47:23,924 - __main__ - INFO - Database connection closed
+2023-11-21 17:47:25,172 - __main__ - INFO - Connected to the database
+2023-11-21 17:47:25,180 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-21 17:47:25,180 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2023-11-21 18:32:37,465 - __main__ - INFO - Database connection closed
+2023-11-21 18:32:38,917 - __main__ - INFO - Connected to the database
+2023-11-21 18:32:38,933 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.254.115:5000
+2023-11-21 18:32:38,933 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
